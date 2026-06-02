@@ -18,6 +18,33 @@ re-run independently.
 
 ---
 
+## Quick start — generate leaderboards from `milestone-data.json`
+
+> **This is the most common command.** Once `milestone-data.json` exists
+> (populated by `batch` or `scrape`), a single command regenerates every
+> leaderboard — **no network access needed**.
+
+```bash
+npm run build -- --milestone 7.0
+```
+
+This reads `output/7.0/milestone-data.json` (the single source of truth) and
+writes **five leaderboard pairs** (JSON + CSV) to `output/7.0/`:
+
+| Output file | What it shows |
+| --- | --- |
+| `patch-testing.{json,csv}` | Everyone who wrote a patch-testing report |
+| `reproduction.{json,csv}` | Everyone who reproduced a bug |
+| `all-combined.{json,csv}` | Testers + reproducers merged, with country & "Member Since" |
+| `test-contributors.{json,csv}` | Users who **already hold** the Test Contributor badge |
+| `new-contributors.{json,csv}` | Users contributing **without** the badge — promotion candidates |
+
+> **Note:** `test-contributors` and `new-contributors` require `npm run enrich`
+> to have populated badge data first. `patch-testing`, `reproduction`, and
+> `all-combined` work with just the classifier output — no enrichment needed.
+
+---
+
 ## Why
 
 WordPress relies on community testers to verify patches and reproduce reported
