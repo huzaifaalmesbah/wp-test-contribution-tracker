@@ -1,0 +1,451 @@
+{
+  "description": "WordPress.org users seen contributing tests but without the Test Contributor badge at last check. Re-checkable via `npm run enrich -- --refresh-new`.",
+  "lastUpdated": "2026-05-27T13:29:32.491Z",
+  "users": {
+    "369work": {
+      "location": "Japan",
+      "country": "Japan",
+      "memberSince": "September 3rd, 2024"
+    },
+    "abcd95": {
+      "location": "New Delhi, India",
+      "country": "India",
+      "memberSince": "July 27th, 2024"
+    },
+    "abdullah17": {
+      "location": "India",
+      "country": "India",
+      "memberSince": "July 15th, 2012"
+    },
+    "abduremon": {
+      "location": "Dhaka, Bangladesh",
+      "country": "Bangladesh",
+      "memberSince": "September 19th, 2025"
+    },
+    "adnanhyder": {
+      "location": "pakistan",
+      "country": "Pakistan",
+      "memberSince": "July 19th, 2018"
+    },
+    "alexodiy": {
+      "location": "",
+      "country": null,
+      "memberSince": "February 28th, 2016"
+    },
+    "alh0319": {
+      "location": "Georgetown, TX",
+      "country": "United States",
+      "memberSince": "January 5th, 2011"
+    },
+    "amesplant": {
+      "location": "Minneapolis, MN",
+      "country": "United States",
+      "memberSince": "July 7th, 2020"
+    },
+    "andrewssanya": {
+      "location": "Uganda, Kampala",
+      "country": "Uganda",
+      "memberSince": "February 5th, 2025"
+    },
+    "ankitkumarshah": {
+      "location": "West Bengal, India",
+      "country": "India",
+      "memberSince": "October 1st, 2024"
+    },
+    "arkaprabhachowdhury": {
+      "location": "India",
+      "country": "India",
+      "memberSince": "October 1st, 2024"
+    },
+    "berislav.grgicak": {
+      "location": "",
+      "country": null,
+      "memberSince": "August 22nd, 2015"
+    },
+    "chexee": {
+      "location": "Reno, NV",
+      "country": "United States",
+      "memberSince": "October 28th, 2007"
+    },
+    "divyeshpatel01": {
+      "location": "Ahmedabad,Gujarat,India",
+      "country": "India",
+      "memberSince": "March 2nd, 2026"
+    },
+    "dlh": {
+      "location": "",
+      "country": null,
+      "memberSince": "June 17th, 2010"
+    },
+    "dmsnell": {
+      "location": "Tucson, AZ, USA",
+      "country": "United States",
+      "memberSince": "January 9th, 2014"
+    },
+    "donmhico": {
+      "location": "Philippines",
+      "country": "Philippines",
+      "memberSince": "August 15th, 2013"
+    },
+    "drysand": {
+      "location": "",
+      "country": null,
+      "memberSince": "February 3rd, 2024"
+    },
+    "ekla": {
+      "location": "India",
+      "country": "India",
+      "memberSince": "January 10th, 2026"
+    },
+    "ellatrix": {
+      "location": "",
+      "country": null,
+      "memberSince": "February 10th, 2013"
+    },
+    "emptyopssphere": {
+      "location": "Surat, Gujarat, India",
+      "country": "India",
+      "memberSince": "December 1st, 2018"
+    },
+    "gaurangsondagar": {
+      "location": "Surat",
+      "country": "India",
+      "memberSince": "January 22nd, 2016"
+    },
+    "gauri87": {
+      "location": "India",
+      "country": "India",
+      "memberSince": "May 20th, 2014"
+    },
+    "gautammkgarg": {
+      "location": "",
+      "country": null,
+      "memberSince": "June 22nd, 2018"
+    },
+    "hbhalodia": {
+      "location": "Rajkot, Gujarat, India",
+      "country": "India",
+      "memberSince": "September 30th, 2021"
+    },
+    "iamadisingh": {
+      "location": "Delhi, India",
+      "country": "India",
+      "memberSince": "January 27th, 2025"
+    },
+    "ibrahimriaz": {
+      "location": "Bangladesh",
+      "country": "Bangladesh",
+      "memberSince": "June 14th, 2023"
+    },
+    "immeet94": {
+      "location": "Rajkot, India",
+      "country": "India",
+      "memberSince": "October 2nd, 2018"
+    },
+    "jabir20": {
+      "location": "Surat, India",
+      "country": "India",
+      "memberSince": "July 31st, 2023"
+    },
+    "jadavsanjay": {
+      "location": "Surat, Gujarat",
+      "country": "India",
+      "memberSince": "May 20th, 2020"
+    },
+    "jarodortegaaraya": {
+      "location": "",
+      "country": null,
+      "memberSince": "February 6th, 2026"
+    },
+    "jigarkahar": {
+      "location": "Surat Gujarat India",
+      "country": "India",
+      "memberSince": "May 13th, 2019"
+    },
+    "joedolson": {
+      "location": "Saint Paul, MN",
+      "country": "United States",
+      "memberSince": "October 28th, 2008"
+    },
+    "jonsurrell": {
+      "location": "Spain",
+      "country": "Spain",
+      "memberSince": "January 27th, 2011"
+    },
+    "joppuyo": {
+      "location": "",
+      "country": null,
+      "memberSince": "October 14th, 2017"
+    },
+    "josephscott": {
+      "location": "Utah",
+      "country": "United States",
+      "memberSince": "May 5th, 2004"
+    },
+    "jsmansart": {
+      "location": "",
+      "country": null,
+      "memberSince": "November 2nd, 2022"
+    },
+    "juanfra": {
+      "location": "Barcelona, Spain",
+      "country": "Spain",
+      "memberSince": "February 10th, 2012"
+    },
+    "kelvinballoo": {
+      "location": "",
+      "country": null,
+      "memberSince": "May 27th, 2021"
+    },
+    "khokansardar": {
+      "location": "",
+      "country": null,
+      "memberSince": "May 19th, 2022"
+    },
+    "khushdoms": {
+      "location": "Surat",
+      "country": "India",
+      "memberSince": "January 4th, 2018"
+    },
+    "khushi1501": {
+      "location": "Ahmedabad",
+      "country": "India",
+      "memberSince": "March 3rd, 2025"
+    },
+    "lakshyajeet": {
+      "location": "India",
+      "country": "India",
+      "memberSince": "April 11th, 2025"
+    },
+    "louischan": {
+      "location": "Bordeaux, France",
+      "country": "France",
+      "memberSince": "September 29th, 2022"
+    },
+    "mabfahad": {
+      "location": "Dhaka, Bangladesh",
+      "country": "Bangladesh",
+      "memberSince": "October 15th, 2020"
+    },
+    "madhavishah01": {
+      "location": "Ahmedabad",
+      "country": "India",
+      "memberSince": "May 2nd, 2025"
+    },
+    "manhar": {
+      "location": "Ahmedabad",
+      "country": "India",
+      "memberSince": "April 21st, 2025"
+    },
+    "manhphucofficial": {
+      "location": "Dong Nai, Viet Nam",
+      "country": "Vietnam",
+      "memberSince": "August 6th, 2019"
+    },
+    "manishxdp": {
+      "location": "",
+      "country": null,
+      "memberSince": "February 4th, 2026"
+    },
+    "maulikmakwana2008": {
+      "location": "Ahmedabad",
+      "country": "India",
+      "memberSince": "January 3rd, 2022"
+    },
+    "maxschmeling": {
+      "location": "Lenexa, KS",
+      "country": "United States",
+      "memberSince": "July 26th, 2023"
+    },
+    "mcsf": {
+      "location": "Lisboa, Portugal",
+      "country": "Portugal",
+      "memberSince": "December 5th, 2012"
+    },
+    "mdibrahimk48": {
+      "location": "Rajshahi, Bangladesh",
+      "country": "Bangladesh",
+      "memberSince": "January 22nd, 2023"
+    },
+    "mirmpro": {
+      "location": "Dhaka, Bangladesh",
+      "country": "Bangladesh",
+      "memberSince": "August 7th, 2023"
+    },
+    "mokshasharmila13": {
+      "location": "Mumbai, Maharashtra, India",
+      "country": "India",
+      "memberSince": "March 30th, 2021"
+    },
+    "navi161": {
+      "location": "India",
+      "country": "India",
+      "memberSince": "February 14th, 2025"
+    },
+    "nilambar": {
+      "location": "Nepal",
+      "country": "Nepal",
+      "memberSince": "January 16th, 2010"
+    },
+    "niravsherasiya7707": {
+      "location": "",
+      "country": null,
+      "memberSince": "January 12th, 2022"
+    },
+    "ocean90": {
+      "location": "Cologne, Germany",
+      "country": "Germany",
+      "memberSince": "January 16th, 2009"
+    },
+    "olmostblue": {
+      "location": "Piacenza, Italy",
+      "country": "Italy",
+      "memberSince": "October 27th, 2013"
+    },
+    "opurockey": {
+      "location": "Bangladesh",
+      "country": "Bangladesh",
+      "memberSince": "April 9th, 2019"
+    },
+    "palak678": {
+      "location": "Ahmedabad",
+      "country": "India",
+      "memberSince": "April 10th, 2025"
+    },
+    "peterwilsoncc": {
+      "location": "Melbourne, Australia",
+      "country": "Australia",
+      "memberSince": "November 2nd, 2008"
+    },
+    "phpbits": {
+      "location": "Philippines",
+      "country": "Philippines",
+      "memberSince": "March 18th, 2013"
+    },
+    "poojapadamad": {
+      "location": "Noida",
+      "country": "India",
+      "memberSince": "July 9th, 2025"
+    },
+    "pratiklondhe": {
+      "location": "",
+      "country": null,
+      "memberSince": "September 27th, 2023"
+    },
+    "pratiknawkar94": {
+      "location": "Pune",
+      "country": "India",
+      "memberSince": "July 25th, 2025"
+    },
+    "rahultank": {
+      "location": "Ahemdabad",
+      "country": null,
+      "memberSince": "March 2nd, 2022"
+    },
+    "ramonopoly": {
+      "location": "Australia",
+      "country": "Australia",
+      "memberSince": "August 27th, 2017"
+    },
+    "ravichudasama01": {
+      "location": "Ahmedabad",
+      "country": "India",
+      "memberSince": "May 2nd, 2025"
+    },
+    "rinkalpagdar": {
+      "location": "",
+      "country": null,
+      "memberSince": "December 23rd, 2022"
+    },
+    "ronya4927": {
+      "location": "sylhet",
+      "country": "Bangladesh",
+      "memberSince": "February 20th, 2018"
+    },
+    "sainathpoojary": {
+      "location": "India",
+      "country": "India",
+      "memberSince": "August 25th, 2024"
+    },
+    "shekharnwagh": {
+      "location": "",
+      "country": null,
+      "memberSince": "February 17th, 2023"
+    },
+    "showravhasan": {
+      "location": "Dhaka, Bangladesh",
+      "country": "Bangladesh",
+      "memberSince": "October 25th, 2022"
+    },
+    "siliconforks": {
+      "location": "",
+      "country": null,
+      "memberSince": "April 8th, 2016"
+    },
+    "sourabhjain": {
+      "location": "Delhi NCR",
+      "country": "India",
+      "memberSince": "November 5th, 2024"
+    },
+    "soyebsalar01": {
+      "location": "Ahmedabad",
+      "country": "India",
+      "memberSince": "May 2nd, 2025"
+    },
+    "spiraltee": {
+      "location": "",
+      "country": null,
+      "memberSince": "September 21st, 2021"
+    },
+    "suhan2411": {
+      "location": "Ahmedabad",
+      "country": "India",
+      "memberSince": "September 7th, 2017"
+    },
+    "sukhendu2002": {
+      "location": "West Bengal, India",
+      "country": "India",
+      "memberSince": "January 21st, 2024"
+    },
+    "tobiasbg": {
+      "location": "Magdeburg, Germany",
+      "country": "Germany",
+      "memberSince": "July 15th, 2008"
+    },
+    "tusharaddweb": {
+      "location": "Ahmedabad, India",
+      "country": "India",
+      "memberSince": "December 11th, 2023"
+    },
+    "tusharbharti": {
+      "location": "India",
+      "country": "India",
+      "memberSince": "April 11th, 2025"
+    },
+    "valentingrenier": {
+      "location": "Toulouse, France",
+      "country": "France",
+      "memberSince": "February 26th, 2023"
+    },
+    "westonruter": {
+      "location": "Portland, OR, USA",
+      "country": "United States",
+      "memberSince": "May 16th, 2007"
+    },
+    "xwolf": {
+      "location": "Erlangen, Germany",
+      "country": "Germany",
+      "memberSince": "April 26th, 2012"
+    },
+    "youknowriad": {
+      "location": "Oran Algeria",
+      "country": "Algeria",
+      "memberSince": "October 18th, 2016"
+    },
+    "yusufmudagal": {
+      "location": "Bangalore India",
+      "country": "India",
+      "memberSince": "February 29th, 2016"
+    }
+  }
+}

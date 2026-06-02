@@ -1,0 +1,40 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+*.tsbuildinfo
+
+# Derived leaderboards — regenerable from output/<milestone>/milestone-data.json
+# via `npm run build -- --milestone 7.0`. Only milestone-data.json is committed.
+output/*/patch-testing.json
+output/*/patch-testing.csv
+output/*/reproduction.json
+output/*/reproduction.csv
+output/*/all-combined.json
+output/*/all-combined.csv
+output/*/test-contributors.json
+output/*/test-contributors.csv
+output/*/new-contributors.json
+output/*/new-contributors.csv
+
+# Scrape cache (per-ticket HTML, parsed.json, batch MDs)
+.cache/
+
+# Editor / OS noise
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Local env
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*

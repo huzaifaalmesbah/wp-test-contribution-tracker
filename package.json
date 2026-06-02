@@ -1,0 +1,26 @@
+{
+  "name": "wp-test-contribution-tracker",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Per-milestone leaderboards of WordPress Trac patch-testing and bug-reproduction contributions, split between Test Contributor badge holders and promotion candidates.",
+  "scripts": {
+    "list": "tsx src/list.ts",
+    "batch": "tsx src/batch.ts",
+    "reclassify": "tsx src/reclassify.ts",
+    "scrape": "tsx src/index.ts",
+    "enrich": "tsx src/enrich.ts",
+    "build": "tsx src/build.ts",
+    "typecheck": "tsc -p ."
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.0",
+    "tsx": "^4.7.0",
+    "typescript": "^5.4.0"
+  },
+  "dependencies": {
+    "playwright": "^1.45.0"
+  }
+}

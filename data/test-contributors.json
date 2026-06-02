@@ -1,0 +1,216 @@
+{
+  "description": "WordPress.org users known to have the Test Contributor badge, with location and member-since data. Updated by `npm run enrich`.",
+  "lastUpdated": "2026-05-27T13:29:32.490Z",
+  "users": {
+    "SirLouen": {
+      "location": "Spain",
+      "country": "Spain",
+      "memberSince": "June 13th, 2010"
+    },
+    "agnieszkaszuba": {
+      "location": "Netherlands",
+      "country": "Netherlands",
+      "memberSince": "July 28th, 2020"
+    },
+    "amin7": {
+      "location": "Dhaka, Bangladesh",
+      "country": "Bangladesh",
+      "memberSince": "January 10th, 2020"
+    },
+    "audrasjb": {
+      "location": "Saint-Péray, Ardèche, France",
+      "country": "France",
+      "memberSince": "December 11th, 2011"
+    },
+    "benniledl": {
+      "location": "Austria",
+      "country": "Austria",
+      "memberSince": "May 10th, 2022"
+    },
+    "darshitrajyaguru97": {
+      "location": "Ahmedabad, Gujarat",
+      "country": "India",
+      "memberSince": "June 23rd, 2023"
+    },
+    "dhrumilk": {
+      "location": "Ahmedabad, India",
+      "country": "India",
+      "memberSince": "February 15th, 2022"
+    },
+    "dhruvang21": {
+      "location": "ahmedabad",
+      "country": "India",
+      "memberSince": "June 28th, 2023"
+    },
+    "dilip2615": {
+      "location": "Ahmedabad",
+      "country": "India",
+      "memberSince": "April 8th, 2023"
+    },
+    "fabiankaegy": {
+      "location": "Winnweiler, Germany",
+      "country": "Germany",
+      "memberSince": "March 7th, 2018"
+    },
+    "fakhriaz": {
+      "location": "Tunisia",
+      "country": "Tunisia",
+      "memberSince": "July 17th, 2017"
+    },
+    "gaisma22": {
+      "location": "",
+      "country": null,
+      "memberSince": "November 29th, 2025"
+    },
+    "gulamdastgir04": {
+      "location": "Ahmedabad, India",
+      "country": "India",
+      "memberSince": "July 9th, 2024"
+    },
+    "hmbashar": {
+      "location": "Patuakhali, Barisal, Bangladesh.",
+      "country": "Bangladesh",
+      "memberSince": "May 13th, 2013"
+    },
+    "huzaifaalmesbah": {
+      "location": "Bangladesh",
+      "country": "Bangladesh",
+      "memberSince": "May 6th, 2023"
+    },
+    "im3dabasia1": {
+      "location": "Ahmedabad",
+      "country": "India",
+      "memberSince": "October 3rd, 2024"
+    },
+    "mai21": {
+      "location": "Egypt",
+      "country": "Egypt",
+      "memberSince": "February 7th, 2021"
+    },
+    "mindctrl": {
+      "location": "United States",
+      "country": "United States",
+      "memberSince": "May 16th, 2009"
+    },
+    "monzuralam": {
+      "location": "Dhaka, Bangladesh",
+      "country": "Bangladesh",
+      "memberSince": "May 11th, 2020"
+    },
+    "mosescursor": {
+      "location": "Mukono - Uganda",
+      "country": "Uganda",
+      "memberSince": "February 18th, 2020"
+    },
+    "nimeshatxecurify": {
+      "location": "Pune, India",
+      "country": "India",
+      "memberSince": "April 1st, 2022"
+    },
+    "noruzzaman": {
+      "location": "Bogura , Bangladesh",
+      "country": "Bangladesh",
+      "memberSince": "February 19th, 2022"
+    },
+    "ozgursar": {
+      "location": "",
+      "country": null,
+      "memberSince": "August 24th, 2017"
+    },
+    "pavanpatil1": {
+      "location": "",
+      "country": null,
+      "memberSince": "October 2nd, 2021"
+    },
+    "pbiron": {
+      "location": "Gardner, CO",
+      "country": "United States",
+      "memberSince": "February 9th, 2012"
+    },
+    "pmbaldha": {
+      "location": "WordPress heart! ♥️",
+      "country": null,
+      "memberSince": "November 11th, 2015"
+    },
+    "poena": {
+      "location": "Stockholm",
+      "country": "Sweden",
+      "memberSince": "June 13th, 2008"
+    },
+    "pooja1210": {
+      "location": "India",
+      "country": "India",
+      "memberSince": "July 11th, 2018"
+    },
+    "r1k0": {
+      "location": "Nairobi, Kenya",
+      "country": "Kenya",
+      "memberSince": "May 17th, 2025"
+    },
+    "rcorrales": {
+      "location": "",
+      "country": null,
+      "memberSince": "November 6th, 2015"
+    },
+    "rishavdutta": {
+      "location": "Kolkata",
+      "country": "India",
+      "memberSince": "September 29th, 2023"
+    },
+    "rollybueno": {
+      "location": "Iloilo, Philippines",
+      "country": "Philippines",
+      "memberSince": "September 20th, 2010"
+    },
+    "sabernhardt": {
+      "location": "Kenosha, WI, US",
+      "country": "United States",
+      "memberSince": "April 23rd, 2015"
+    },
+    "sajib1223": {
+      "location": "Dhaka, Bangladesh",
+      "country": "Bangladesh",
+      "memberSince": "August 24th, 2009"
+    },
+    "sajjad67": {
+      "location": "Dhaka Bangladesh",
+      "country": "Bangladesh",
+      "memberSince": "May 5th, 2016"
+    },
+    "sandeepdahiya": {
+      "location": "Sriganganagar, India",
+      "country": "India",
+      "memberSince": "November 3rd, 2024"
+    },
+    "shailu25": {
+      "location": "Ahmedabad, India",
+      "country": "India",
+      "memberSince": "June 19th, 2019"
+    },
+    "shibleemehdi": {
+      "location": "",
+      "country": null,
+      "memberSince": "January 31st, 2022"
+    },
+    "swissspidy": {
+      "location": "Zurich, Switzerland",
+      "country": "Switzerland",
+      "memberSince": "February 25th, 2008"
+    },
+    "ugyensupport": {
+      "location": "Thimphu, Bhutan",
+      "country": "Bhutan",
+      "memberSince": "August 24th, 2016"
+    },
+    "vgnavada": {
+      "location": "Kundapura, Karnataka",
+      "country": "India",
+      "memberSince": "December 29th, 2011"
+    },
+    "wildworks": {
+      "location": "Japan",
+      "country": "Japan",
+      "memberSince": "July 31st, 2017"
+    }
+  }
+}
