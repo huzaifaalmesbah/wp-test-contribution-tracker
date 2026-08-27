@@ -37,6 +37,7 @@ import {
 import { readProgress } from "./progress/store.js";
 import { writeOutputs } from "./progress/output.js";
 import { allLeaderboardFiles } from "./build.js";
+import { buildCombinedNonBadge, writeCombinedNonBadgeFiles } from "./combine.js";
 
 const OUTPUT_DIR = join(process.cwd(), "output");
 const FETCH_DELAY_MS = 500;
@@ -199,7 +200,16 @@ export async function enrichMilestone(milestone: string, opts: EnrichOptions = {
   const progress = await readProgress(path, milestone);
   const files = allLeaderboardFiles(progress);
   await writeOutputs(milestoneDir, milestone, files, Object.keys(progress.tickets).length, true);
-  console.log(`Regenerated ${files.length} leaderboards from ${Object.keys(progress.tickets).length} ticket(s) in ${milestone}.`);
+
+  try {
+    const combinedResult = await buildCombinedNonBadge({ targetMilestone: milestone });
+    await writeCombinedNonBadgeFiles(milestoneDir, combinedResult);
+    await writeCombinedNonBadgeFiles(OUTPUT_DIR, combinedResult);
+  } catch (err) {
+    console.warn(`Could not generate combined non-badge leaderboard: ${(err as Error).message}`);
+  }
+
+  console.log(`Regenerated ${files.length} leaderboards + combined non-badge leaderboard from ${Object.keys(progress.tickets).length} ticket(s) in ${milestone}.`);
 
   const testAfter = Object.keys(testReg.users).length;
   const newAfter = Object.keys(newReg.users).length;

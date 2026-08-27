@@ -22,6 +22,8 @@ import {
 } from "./progress/store.js";
 import { writeOutputs, type LeaderboardColumn } from "./progress/output.js";
 
+import { buildCombinedNonBadge, writeCombinedNonBadgeFiles } from "./combine.js";
+
 const OUTPUT_DIR = join(process.cwd(), "output");
 
 const BASIC_COLUMNS: LeaderboardColumn[] = ["username", "count"];
@@ -66,7 +68,16 @@ async function main() {
 
   const files = allLeaderboardFiles(progress);
   await writeOutputs(milestoneDir, milestone, files, ticketCount, true);
-  console.log(`Regenerated ${files.length} leaderboards from ${ticketCount} ticket(s) in ${milestone}.`);
+
+  try {
+    const combinedResult = await buildCombinedNonBadge({ targetMilestone: milestone });
+    await writeCombinedNonBadgeFiles(milestoneDir, combinedResult);
+    await writeCombinedNonBadgeFiles(OUTPUT_DIR, combinedResult);
+  } catch (err) {
+    console.warn(`Could not generate combined non-badge leaderboard: ${(err as Error).message}`);
+  }
+
+  console.log(`Regenerated ${files.length} leaderboards + combined non-badge leaderboard from ${ticketCount} ticket(s) in ${milestone}.`);
 }
 
 // Only run main() when invoked directly (not when imported by scrape/enrich/etc.).

@@ -47,7 +47,7 @@
           "comments": [
             "https://core.trac.wordpress.org/ticket/17133#comment:33"
           ],
-          "newContributor": true,
+          "newContributor": false,
           "country": "India",
           "memberSince": "December 11th, 2023"
         }
@@ -183,7 +183,7 @@
           "comments": [
             "https://core.trac.wordpress.org/ticket/41870#comment:27"
           ],
-          "newContributor": true,
+          "newContributor": false,
           "country": "United States",
           "memberSince": "May 16th, 2007"
         }
@@ -203,7 +203,7 @@
           "comments": [
             "https://core.trac.wordpress.org/ticket/42822#comment:17"
           ],
-          "newContributor": true,
+          "newContributor": false,
           "country": "United States",
           "memberSince": "May 16th, 2007"
         }
@@ -1520,7 +1520,7 @@
           "comments": [
             "https://core.trac.wordpress.org/ticket/62816#comment:3"
           ],
-          "newContributor": true,
+          "newContributor": false,
           "country": "India",
           "memberSince": "October 1st, 2024"
         },
@@ -1994,7 +1994,7 @@
           "comments": [
             "https://core.trac.wordpress.org/ticket/63606#comment:5"
           ],
-          "newContributor": true,
+          "newContributor": false,
           "country": "India",
           "memberSince": "October 1st, 2024"
         }
@@ -2793,7 +2793,7 @@
           "comments": [
             "https://core.trac.wordpress.org/ticket/64288#comment:7"
           ],
-          "newContributor": true,
+          "newContributor": false,
           "country": "United States",
           "memberSince": "May 16th, 2007"
         }
@@ -2915,7 +2915,7 @@
           "comments": [
             "https://core.trac.wordpress.org/ticket/64330#comment:4"
           ],
-          "newContributor": true,
+          "newContributor": false,
           "country": "United States",
           "memberSince": "May 16th, 2007"
         }
@@ -2959,7 +2959,7 @@
           "comments": [
             "https://core.trac.wordpress.org/ticket/64361#comment:15"
           ],
-          "newContributor": true,
+          "newContributor": false,
           "country": "United States",
           "memberSince": "May 16th, 2007"
         }
@@ -2986,7 +2986,7 @@
             "https://core.trac.wordpress.org/ticket/64372#comment:11",
             "https://core.trac.wordpress.org/ticket/64372#comment:13"
           ],
-          "newContributor": true,
+          "newContributor": false,
           "country": "United States",
           "memberSince": "May 16th, 2007"
         }
@@ -3105,7 +3105,7 @@
           "comments": [
             "https://core.trac.wordpress.org/ticket/64389#comment:26"
           ],
-          "newContributor": true,
+          "newContributor": false,
           "country": "United States",
           "memberSince": "May 16th, 2007"
         }
@@ -3134,7 +3134,7 @@
           "comments": [
             "https://core.trac.wordpress.org/ticket/64389#comment:19"
           ],
-          "newContributor": true,
+          "newContributor": false,
           "country": "United States",
           "memberSince": "May 16th, 2007"
         },
@@ -3252,7 +3252,7 @@
           "comments": [
             "https://core.trac.wordpress.org/ticket/64406#comment:5"
           ],
-          "newContributor": true,
+          "newContributor": false,
           "country": "United States",
           "memberSince": "May 16th, 2007"
         }
@@ -3297,7 +3297,7 @@
           "comments": [
             "https://core.trac.wordpress.org/ticket/64415#comment:2"
           ],
-          "newContributor": true,
+          "newContributor": false,
           "country": "India",
           "memberSince": "May 2nd, 2025"
         }
@@ -3337,7 +3337,7 @@
           "comments": [
             "https://core.trac.wordpress.org/ticket/64418#comment:9"
           ],
-          "newContributor": true,
+          "newContributor": false,
           "country": "India",
           "memberSince": "May 2nd, 2025"
         }
@@ -3415,7 +3415,7 @@
           "comments": [
             "https://core.trac.wordpress.org/ticket/64447#comment:3"
           ],
-          "newContributor": true,
+          "newContributor": false,
           "country": "India",
           "memberSince": "May 2nd, 2025"
         }
@@ -5283,7 +5283,7 @@
           "comments": [
             "https://core.trac.wordpress.org/ticket/64739#comment:4"
           ],
-          "newContributor": true,
+          "newContributor": false,
           "country": "India",
           "memberSince": "May 2nd, 2025"
         }
@@ -5397,7 +5397,7 @@
           "comments": [
             "https://core.trac.wordpress.org/ticket/64743#comment:8"
           ],
-          "newContributor": true,
+          "newContributor": false,
           "country": "India",
           "memberSince": "December 11th, 2023"
         }
@@ -5502,7 +5502,7 @@
           "comments": [
             "https://core.trac.wordpress.org/ticket/64744#comment:6"
           ],
-          "newContributor": true,
+          "newContributor": false,
           "country": "India",
           "memberSince": "December 11th, 2023"
         },
@@ -5788,7 +5788,7 @@
           "comments": [
             "https://core.trac.wordpress.org/ticket/64757#comment:8"
           ],
-          "newContributor": true,
+          "newContributor": false,
           "country": "India",
           "memberSince": "April 21st, 2025"
         },
@@ -5902,7 +5902,7 @@
           "comments": [
             "https://core.trac.wordpress.org/ticket/64759#comment:7"
           ],
-          "newContributor": true,
+          "newContributor": false,
           "country": "India",
           "memberSince": "April 21st, 2025"
         },
@@ -5981,7 +5981,7 @@
           "comments": [
             "https://core.trac.wordpress.org/ticket/64761#comment:5"
           ],
-          "newContributor": true,
+          "newContributor": false,
           "country": "India",
           "memberSince": "December 11th, 2023"
         },
@@ -6034,7 +6034,7 @@
           "comments": [
             "https://core.trac.wordpress.org/ticket/64763#comment:5"
           ],
-          "newContributor": true,
+          "newContributor": false,
           "country": "India",
           "memberSince": "April 21st, 2025"
         },
@@ -6123,7 +6123,7 @@
           "comments": [
             "https://core.trac.wordpress.org/ticket/64766#comment:6"
           ],
-          "newContributor": true,
+          "newContributor": false,
           "country": "India",
           "memberSince": "April 21st, 2025"
         }
@@ -6352,7 +6352,7 @@
           "comments": [
             "https://core.trac.wordpress.org/ticket/64787#comment:4"
           ],
-          "newContributor": true,
+          "newContributor": false,
           "country": "India",
           "memberSince": "April 21st, 2025"
         },
@@ -6526,7 +6526,7 @@
           "comments": [
             "https://core.trac.wordpress.org/ticket/64803#comment:3"
           ],
-          "newContributor": true,
+          "newContributor": false,
           "country": "India",
           "memberSince": "April 21st, 2025"
         },
@@ -6539,7 +6539,7 @@
           "comments": [
             "https://core.trac.wordpress.org/ticket/64803#comment:12"
           ],
-          "newContributor": true,
+          "newContributor": false,
           "country": "United States",
           "memberSince": "May 16th, 2007"
         }
@@ -7713,7 +7713,7 @@
           "comments": [
             "https://core.trac.wordpress.org/ticket/64925#comment:14"
           ],
-          "newContributor": true,
+          "newContributor": false,
           "country": "India",
           "memberSince": "April 21st, 2025"
         }
@@ -8231,7 +8231,7 @@
           "comments": [
             "https://core.trac.wordpress.org/ticket/65015#comment:14"
           ],
-          "newContributor": true,
+          "newContributor": false,
           "country": "United States",
           "memberSince": "May 16th, 2007"
         }
@@ -8265,7 +8265,7 @@
           "comments": [
             "https://core.trac.wordpress.org/ticket/65017#comment:3"
           ],
-          "newContributor": true,
+          "newContributor": false,
           "country": "India",
           "memberSince": "October 1st, 2024"
         }
@@ -8321,7 +8321,7 @@
           "comments": [
             "https://core.trac.wordpress.org/ticket/65031#comment:3"
           ],
-          "newContributor": true,
+          "newContributor": false,
           "country": "India",
           "memberSince": "October 1st, 2024"
         },
@@ -8375,7 +8375,7 @@
           "comments": [
             "https://core.trac.wordpress.org/ticket/65031#comment:12"
           ],
-          "newContributor": true,
+          "newContributor": false,
           "country": "India",
           "memberSince": "January 22nd, 2016"
         },
@@ -8610,7 +8610,7 @@
           "comments": [
             "https://core.trac.wordpress.org/ticket/65063#comment:14"
           ],
-          "newContributor": true,
+          "newContributor": false,
           "country": "India",
           "memberSince": "December 11th, 2023"
         },
@@ -8665,7 +8665,7 @@
           "comments": [
             "https://core.trac.wordpress.org/ticket/65094#comment:21"
           ],
-          "newContributor": true,
+          "newContributor": false,
           "country": "India",
           "memberSince": "January 22nd, 2016"
         },
@@ -8708,7 +8708,7 @@
           "comments": [
             "https://core.trac.wordpress.org/ticket/65094#comment:18"
           ],
-          "newContributor": true,
+          "newContributor": false,
           "country": "United States",
           "memberSince": "May 16th, 2007"
         }
@@ -8740,7 +8740,7 @@
           "comments": [
             "https://core.trac.wordpress.org/ticket/65103#comment:3"
           ],
-          "newContributor": true,
+          "newContributor": false,
           "country": "India",
           "memberSince": "December 11th, 2023"
         }
@@ -8798,7 +8798,7 @@
           "comments": [
             "https://core.trac.wordpress.org/ticket/65104#comment:10"
           ],
-          "newContributor": true,
+          "newContributor": false,
           "country": "India",
           "memberSince": "January 22nd, 2016"
         },
@@ -8897,7 +8897,7 @@
           "comments": [
             "https://core.trac.wordpress.org/ticket/65131#comment:5"
           ],
-          "newContributor": true,
+          "newContributor": false,
           "country": "India",
           "memberSince": "January 22nd, 2016"
         },
@@ -8988,7 +8988,7 @@
           "comments": [
             "https://core.trac.wordpress.org/ticket/65141#comment:21"
           ],
-          "newContributor": true,
+          "newContributor": false,
           "country": "India",
           "memberSince": "January 22nd, 2016"
         },
@@ -9024,7 +9024,7 @@
             "https://core.trac.wordpress.org/ticket/65141#comment:19"
           ],
           "newContributor": true,
-          "country": null,
+          "country": "India",
           "memberSince": "May 19th, 2022"
         }
       ],
@@ -9043,7 +9043,7 @@
           "comments": [
             "https://core.trac.wordpress.org/ticket/65165#comment:13"
           ],
-          "newContributor": true,
+          "newContributor": false,
           "country": "United States",
           "memberSince": "May 16th, 2007"
         }
@@ -9090,7 +9090,7 @@
           "comments": [
             "https://core.trac.wordpress.org/ticket/65233#comment:14"
           ],
-          "newContributor": true,
+          "newContributor": false,
           "country": "India",
           "memberSince": "April 21st, 2025"
         },

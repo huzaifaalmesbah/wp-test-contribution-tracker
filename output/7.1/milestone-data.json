@@ -1,0 +1,5069 @@
+{
+  "schemaVersion": 1,
+  "milestone": "7.1",
+  "tickets": {
+    "24487": {
+      "url": "https://core.trac.wordpress.org/ticket/24487",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 06/13/2026 05:43:49 AM"
+    },
+    "29299": {
+      "url": "https://core.trac.wordpress.org/ticket/29299",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 07/31/2026 08:06:47 PM"
+    },
+    "32892": {
+      "url": "https://core.trac.wordpress.org/ticket/32892",
+      "testers": [
+        {
+          "user": "afercia",
+          "quality": "low",
+          "reasons": [
+            "narrative_test_medium"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/32892#comment:16"
+          ],
+          "newContributor": true,
+          "country": "Italy",
+          "memberSince": "January 25th, 2012"
+        },
+        {
+          "user": "joedolson",
+          "quality": "low",
+          "reasons": [
+            "narrative_test_medium"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/32892#comment:24"
+          ],
+          "newContributor": true,
+          "country": "United States",
+          "memberSince": "October 28th, 2008"
+        },
+        {
+          "user": "ozgursar",
+          "quality": "high",
+          "reasons": [
+            "before_after_with_image",
+            "expected_result_with_struct",
+            "narrative_test_strong",
+            "narrative_test_with_visual",
+            "patch_test_heading",
+            "struct_2_with_patch_signal",
+            "struct_3plus",
+            "tested_patch_with_link"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/32892#comment:19"
+          ],
+          "newContributor": false,
+          "country": null,
+          "memberSince": "August 24th, 2017"
+        }
+      ],
+      "reproducers": [
+        {
+          "user": "joedolson",
+          "quality": "low",
+          "reasons": [
+            "narrative_repro_strong"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/32892#comment:23"
+          ],
+          "newContributor": true,
+          "country": "United States",
+          "memberSince": "October 28th, 2008"
+        }
+      ],
+      "changetime": "See timeline at 08/03/2026 05:33:44 PM"
+    },
+    "34753": {
+      "url": "https://core.trac.wordpress.org/ticket/34753",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 07/12/2026 08:41:25 PM"
+    },
+    "36447": {
+      "url": "https://core.trac.wordpress.org/ticket/36447",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 07/14/2026 09:43:31 PM"
+    },
+    "42513": {
+      "url": "https://core.trac.wordpress.org/ticket/42513",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 07/21/2026 02:27:45 PM"
+    },
+    "42517": {
+      "url": "https://core.trac.wordpress.org/ticket/42517",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 07/20/2026 10:24:11 AM"
+    },
+    "43178": {
+      "url": "https://core.trac.wordpress.org/ticket/43178",
+      "testers": [
+        {
+          "user": "jamesbregenzer",
+          "quality": "medium",
+          "reasons": [
+            "tested_patch_with_link"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/43178#comment:36"
+          ],
+          "newContributor": true,
+          "country": "United States",
+          "memberSince": "December 7th, 2014"
+        }
+      ],
+      "reproducers": [],
+      "changetime": "See timeline at 07/09/2026 09:16:37 PM"
+    },
+    "44498": {
+      "url": "https://core.trac.wordpress.org/ticket/44498",
+      "testers": [
+        {
+          "user": "khokansardar",
+          "quality": "high",
+          "reasons": [
+            "patch_test_heading",
+            "struct_2_with_patch_signal",
+            "struct_3plus",
+            "tested_patch_with_link"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/44498#comment:9"
+          ],
+          "newContributor": true,
+          "country": "India",
+          "memberSince": "May 19th, 2022"
+        }
+      ],
+      "reproducers": [],
+      "changetime": "See timeline at 07/08/2026 02:58:31 AM"
+    },
+    "44723": {
+      "url": "https://core.trac.wordpress.org/ticket/44723",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 07/06/2026 04:12:53 AM"
+    },
+    "46713": {
+      "url": "https://core.trac.wordpress.org/ticket/46713",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 06/16/2026 08:20:43 PM"
+    },
+    "47670": {
+      "url": "https://core.trac.wordpress.org/ticket/47670",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 08/03/2026 05:00:04 PM"
+    },
+    "50921": {
+      "url": "https://core.trac.wordpress.org/ticket/50921",
+      "testers": [
+        {
+          "user": "joedolson",
+          "quality": "low",
+          "reasons": [
+            "narrative_test_medium"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/50921#comment:30"
+          ],
+          "newContributor": true,
+          "country": "United States",
+          "memberSince": "October 28th, 2008"
+        }
+      ],
+      "reproducers": [],
+      "changetime": "See timeline at 07/22/2026 12:11:19 AM"
+    },
+    "51006": {
+      "url": "https://core.trac.wordpress.org/ticket/51006",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 08/03/2026 05:54:19 PM"
+    },
+    "51542": {
+      "url": "https://core.trac.wordpress.org/ticket/51542",
+      "testers": [
+        {
+          "user": "RavanH",
+          "quality": "low",
+          "reasons": [
+            "narrative_test_medium"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/51542#comment:3"
+          ],
+          "newContributor": true,
+          "country": "France",
+          "memberSince": "January 24th, 2006"
+        }
+      ],
+      "reproducers": [],
+      "changetime": "See timeline at 07/08/2026 07:03:59 AM"
+    },
+    "51543": {
+      "url": "https://core.trac.wordpress.org/ticket/51543",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 08/22/2026 04:16:31 PM"
+    },
+    "53611": {
+      "url": "https://core.trac.wordpress.org/ticket/53611",
+      "testers": [
+        {
+          "user": "masteradhoc",
+          "quality": "medium",
+          "reasons": [
+            "narrative_test_medium",
+            "narrative_test_with_visual"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/53611#comment:2"
+          ],
+          "newContributor": true,
+          "country": "Liechtenstein",
+          "memberSince": "December 16th, 2015"
+        }
+      ],
+      "reproducers": [],
+      "changetime": "See timeline at 07/24/2026 10:31:59 PM"
+    },
+    "55343": {
+      "url": "https://core.trac.wordpress.org/ticket/55343",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 08/11/2026 06:17:52 AM"
+    },
+    "56607": {
+      "url": "https://core.trac.wordpress.org/ticket/56607",
+      "testers": [],
+      "reproducers": [
+        {
+          "user": "SergeyBiryukov",
+          "quality": "low",
+          "reasons": [
+            "narrative_repro_strong"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/56607#comment:3"
+          ],
+          "newContributor": false,
+          "country": "Russia",
+          "memberSince": "December 2nd, 2007"
+        }
+      ],
+      "changetime": "See timeline at 07/23/2026 08:41:20 PM"
+    },
+    "56694": {
+      "url": "https://core.trac.wordpress.org/ticket/56694",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 07/24/2026 06:57:30 PM"
+    },
+    "56914": {
+      "url": "https://core.trac.wordpress.org/ticket/56914",
+      "testers": [
+        {
+          "user": "fakhriaz",
+          "quality": "high",
+          "reasons": [
+            "narrative_test_medium",
+            "narrative_test_strong",
+            "patch_test_heading",
+            "struct_2_with_patch_signal",
+            "struct_3plus",
+            "tested_patch_with_link"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/56914#comment:13"
+          ],
+          "newContributor": false,
+          "country": "Tunisia",
+          "memberSince": "July 17th, 2017"
+        },
+        {
+          "user": "ozgursar",
+          "quality": "high",
+          "reasons": [
+            "before_after_with_image",
+            "narrative_test_medium",
+            "narrative_test_strong",
+            "narrative_test_with_visual",
+            "patch_test_heading",
+            "struct_2_with_patch_signal",
+            "struct_3plus",
+            "tested_patch_with_link"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/56914#comment:14"
+          ],
+          "newContributor": false,
+          "country": null,
+          "memberSince": "August 24th, 2017"
+        }
+      ],
+      "reproducers": [],
+      "changetime": "See timeline at 07/10/2026 05:01:48 PM"
+    },
+    "58189": {
+      "url": "https://core.trac.wordpress.org/ticket/58189",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 07/19/2026 11:18:01 PM"
+    },
+    "58291": {
+      "url": "https://core.trac.wordpress.org/ticket/58291",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 08/21/2026 04:15:34 PM"
+    },
+    "58518": {
+      "url": "https://core.trac.wordpress.org/ticket/58518",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 06/21/2026 11:33:53 PM"
+    },
+    "58715": {
+      "url": "https://core.trac.wordpress.org/ticket/58715",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 06/10/2026 11:40:51 PM"
+    },
+    "58969": {
+      "url": "https://core.trac.wordpress.org/ticket/58969",
+      "testers": [],
+      "reproducers": [
+        {
+          "user": "sumitbagthariya16",
+          "quality": "low",
+          "reasons": [
+            "narrative_repro_strong"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/58969#comment:3"
+          ],
+          "newContributor": false,
+          "country": "India",
+          "memberSince": "November 26th, 2016"
+        }
+      ],
+      "changetime": "See timeline at 07/08/2026 03:18:16 AM"
+    },
+    "58987": {
+      "url": "https://core.trac.wordpress.org/ticket/58987",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 07/15/2026 01:45:18 PM"
+    },
+    "59276": {
+      "url": "https://core.trac.wordpress.org/ticket/59276",
+      "testers": [
+        {
+          "user": "masteradhoc",
+          "quality": "low",
+          "reasons": [
+            "narrative_test_strong"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/59276#comment:6"
+          ],
+          "newContributor": true,
+          "country": "Liechtenstein",
+          "memberSince": "December 16th, 2015"
+        }
+      ],
+      "reproducers": [],
+      "changetime": "See timeline at 07/24/2026 03:47:26 PM"
+    },
+    "59709": {
+      "url": "https://core.trac.wordpress.org/ticket/59709",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 08/05/2026 01:03:07 PM"
+    },
+    "59710": {
+      "url": "https://core.trac.wordpress.org/ticket/59710",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 08/06/2026 11:15:00 PM"
+    },
+    "62437": {
+      "url": "https://core.trac.wordpress.org/ticket/62437",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 08/03/2026 03:40:07 PM"
+    },
+    "62757": {
+      "url": "https://core.trac.wordpress.org/ticket/62757",
+      "testers": [
+        {
+          "user": "ozgursar",
+          "quality": "high",
+          "reasons": [
+            "before_after_with_image",
+            "expected_result_with_struct",
+            "narrative_test_medium",
+            "narrative_test_strong",
+            "narrative_test_with_visual",
+            "patch_test_heading",
+            "struct_2_with_patch_signal",
+            "struct_3plus",
+            "tested_patch_with_link"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/62757#comment:11"
+          ],
+          "newContributor": false,
+          "country": null,
+          "memberSince": "August 24th, 2017"
+        }
+      ],
+      "reproducers": [],
+      "changetime": "See timeline at 07/30/2026 11:07:31 AM"
+    },
+    "63085": {
+      "url": "https://core.trac.wordpress.org/ticket/63085",
+      "testers": [
+        {
+          "user": "darshitrajyaguru97",
+          "quality": "medium",
+          "reasons": [
+            "narrative_test_strong",
+            "struct_2_with_patch_signal",
+            "tested_patch_with_link"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/63085#comment:10"
+          ],
+          "newContributor": false,
+          "country": "India",
+          "memberSince": "June 23rd, 2023"
+        },
+        {
+          "user": "pavanpatil1",
+          "quality": "medium",
+          "reasons": [
+            "narrative_test_strong",
+            "narrative_test_with_visual",
+            "struct_2_with_patch_signal",
+            "tested_patch_with_link"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/63085#comment:8"
+          ],
+          "newContributor": false,
+          "country": null,
+          "memberSince": "October 2nd, 2021"
+        }
+      ],
+      "reproducers": [
+        {
+          "user": "cweiske",
+          "quality": "low",
+          "reasons": [
+            "narrative_repro_medium"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/63085#comment:14"
+          ],
+          "newContributor": true,
+          "country": null,
+          "memberSince": "February 11th, 2011"
+        }
+      ],
+      "changetime": "See timeline at 07/28/2026 07:55:41 AM"
+    },
+    "63372": {
+      "url": "https://core.trac.wordpress.org/ticket/63372",
+      "testers": [
+        {
+          "user": "madhavishah01",
+          "quality": "medium",
+          "reasons": [
+            "narrative_test_medium",
+            "narrative_test_with_visual"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/63372#comment:20"
+          ],
+          "newContributor": true,
+          "country": "India",
+          "memberSince": "May 2nd, 2025"
+        },
+        {
+          "user": "SirLouen",
+          "quality": "high",
+          "reasons": [
+            "expected_result_with_struct",
+            "narrative_test_strong",
+            "narrative_test_with_visual",
+            "patch_test_heading",
+            "struct_2_with_patch_signal",
+            "struct_3plus",
+            "tested_patch_with_link"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/63372#comment:2"
+          ],
+          "newContributor": false,
+          "country": "Spain",
+          "memberSince": "June 13th, 2010"
+        },
+        {
+          "user": "yashjawale",
+          "quality": "high",
+          "reasons": [
+            "narrative_test_medium",
+            "narrative_test_strong",
+            "narrative_test_with_visual",
+            "patch_test_heading",
+            "struct_2_with_patch_signal",
+            "struct_3plus",
+            "tested_patch_with_link"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/63372#comment:8"
+          ],
+          "newContributor": false,
+          "country": "India",
+          "memberSince": "June 5th, 2024"
+        }
+      ],
+      "reproducers": [
+        {
+          "user": "rishabhwp",
+          "quality": "high",
+          "reasons": [
+            "repro_heading"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/63372#comment:7"
+          ],
+          "newContributor": false,
+          "country": "India",
+          "memberSince": "April 12th, 2025"
+        }
+      ],
+      "changetime": "See timeline at 07/24/2026 03:35:48 PM"
+    },
+    "63467": {
+      "url": "https://core.trac.wordpress.org/ticket/63467",
+      "testers": [
+        {
+          "user": "yogeshbhutkar",
+          "quality": "medium",
+          "reasons": [
+            "before_after_with_image"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/63467#comment:2"
+          ],
+          "newContributor": true,
+          "country": "India",
+          "memberSince": "October 1st, 2024"
+        }
+      ],
+      "reproducers": [],
+      "changetime": "See timeline at 07/04/2026 04:52:10 PM"
+    },
+    "63736": {
+      "url": "https://core.trac.wordpress.org/ticket/63736",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 07/15/2026 01:52:26 PM"
+    },
+    "63760": {
+      "url": "https://core.trac.wordpress.org/ticket/63760",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 07/28/2026 08:05:34 PM"
+    },
+    "64217": {
+      "url": "https://core.trac.wordpress.org/ticket/64217",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 08/05/2026 12:44:19 PM"
+    },
+    "64311": {
+      "url": "https://core.trac.wordpress.org/ticket/64311",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 07/31/2026 07:28:14 PM"
+    },
+    "64355": {
+      "url": "https://core.trac.wordpress.org/ticket/64355",
+      "testers": [
+        {
+          "user": "westonruter",
+          "quality": "medium",
+          "reasons": [
+            "before_after_with_image"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/64355#comment:10"
+          ],
+          "newContributor": false,
+          "country": "United States",
+          "memberSince": "May 16th, 2007"
+        }
+      ],
+      "reproducers": [],
+      "changetime": "See timeline at 06/02/2026 11:09:39 AM"
+    },
+    "64452": {
+      "url": "https://core.trac.wordpress.org/ticket/64452",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 06/06/2026 08:53:00 PM"
+    },
+    "64467": {
+      "url": "https://core.trac.wordpress.org/ticket/64467",
+      "testers": [
+        {
+          "user": "darshitrajyaguru97",
+          "quality": "high",
+          "reasons": [
+            "expected_result_with_struct",
+            "narrative_test_medium",
+            "patch_test_heading",
+            "struct_2_with_patch_signal",
+            "struct_3plus"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/64467#comment:17"
+          ],
+          "newContributor": false,
+          "country": "India",
+          "memberSince": "June 23rd, 2023"
+        },
+        {
+          "user": "ozgursar",
+          "quality": "high",
+          "reasons": [
+            "before_after_with_image",
+            "expected_result_with_struct",
+            "narrative_test_strong",
+            "narrative_test_with_visual",
+            "patch_test_heading",
+            "struct_2_with_patch_signal",
+            "struct_3plus",
+            "tested_patch_with_link"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/64467#comment:13"
+          ],
+          "newContributor": false,
+          "country": null,
+          "memberSince": "August 24th, 2017"
+        },
+        {
+          "user": "shailu25",
+          "quality": "medium",
+          "reasons": [
+            "before_after_with_image"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/64467#comment:23"
+          ],
+          "newContributor": false,
+          "country": "India",
+          "memberSince": "June 19th, 2019"
+        }
+      ],
+      "reproducers": [
+        {
+          "user": "adamsilverstein",
+          "quality": "low",
+          "reasons": [
+            "narrative_repro_medium",
+            "narrative_repro_strong"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/64467#comment:2",
+            "https://core.trac.wordpress.org/ticket/64467#comment:24"
+          ],
+          "newContributor": true,
+          "country": "United States",
+          "memberSince": "October 11th, 2012"
+        }
+      ],
+      "changetime": "See timeline at 08/05/2026 06:16:55 AM"
+    },
+    "64504": {
+      "url": "https://core.trac.wordpress.org/ticket/64504",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 07/15/2026 01:47:51 PM"
+    },
+    "64567": {
+      "url": "https://core.trac.wordpress.org/ticket/64567",
+      "testers": [
+        {
+          "user": "phpbits",
+          "quality": "medium",
+          "reasons": [
+            "tested_patch_with_link"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/64567#comment:6"
+          ],
+          "newContributor": true,
+          "country": "Philippines",
+          "memberSince": "March 18th, 2013"
+        }
+      ],
+      "reproducers": [],
+      "changetime": "See timeline at 08/09/2026 02:37:32 PM"
+    },
+    "64569": {
+      "url": "https://core.trac.wordpress.org/ticket/64569",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 07/15/2026 09:03:36 AM"
+    },
+    "64576": {
+      "url": "https://core.trac.wordpress.org/ticket/64576",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 06/19/2026 11:02:31 AM"
+    },
+    "64598": {
+      "url": "https://core.trac.wordpress.org/ticket/64598",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 07/14/2026 09:20:24 AM"
+    },
+    "64667": {
+      "url": "https://core.trac.wordpress.org/ticket/64667",
+      "testers": [
+        {
+          "user": "fushar",
+          "quality": "medium",
+          "reasons": [
+            "before_after_with_image"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/64667#comment:4"
+          ],
+          "newContributor": true,
+          "country": null,
+          "memberSince": "September 12th, 2022"
+        }
+      ],
+      "reproducers": [],
+      "changetime": "See timeline at 07/04/2026 04:12:42 AM"
+    },
+    "64680": {
+      "url": "https://core.trac.wordpress.org/ticket/64680",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 08/13/2026 06:01:51 PM"
+    },
+    "64683": {
+      "url": "https://core.trac.wordpress.org/ticket/64683",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 07/14/2026 06:32:48 AM"
+    },
+    "64695": {
+      "url": "https://core.trac.wordpress.org/ticket/64695",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 07/14/2026 07:51:47 PM"
+    },
+    "64702": {
+      "url": "https://core.trac.wordpress.org/ticket/64702",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 03/30/2026 06:01:59 AM"
+    },
+    "64703": {
+      "url": "https://core.trac.wordpress.org/ticket/64703",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 03/30/2026 05:06:32 AM"
+    },
+    "64792": {
+      "url": "https://core.trac.wordpress.org/ticket/64792",
+      "testers": [
+        {
+          "user": "manhar",
+          "quality": "medium",
+          "reasons": [
+            "before_after_with_image"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/64792#comment:5"
+          ],
+          "newContributor": false,
+          "country": "India",
+          "memberSince": "April 21st, 2025"
+        },
+        {
+          "user": "vgnavada",
+          "quality": "high",
+          "reasons": [
+            "before_after_with_image",
+            "narrative_test_strong",
+            "narrative_test_with_visual",
+            "patch_test_heading",
+            "struct_2_with_patch_signal",
+            "struct_3plus",
+            "tested_patch_with_link"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/64792#comment:7"
+          ],
+          "newContributor": false,
+          "country": "India",
+          "memberSince": "December 29th, 2011"
+        }
+      ],
+      "reproducers": [],
+      "changetime": "See timeline at 05/22/2026 11:40:35 PM"
+    },
+    "64798": {
+      "url": "https://core.trac.wordpress.org/ticket/64798",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 07/16/2026 02:47:41 AM"
+    },
+    "64806": {
+      "url": "https://core.trac.wordpress.org/ticket/64806",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 07/06/2026 04:23:50 AM"
+    },
+    "64837": {
+      "url": "https://core.trac.wordpress.org/ticket/64837",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 05/26/2026 12:41:59 AM"
+    },
+    "64838": {
+      "url": "https://core.trac.wordpress.org/ticket/64838",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 07/06/2026 08:13:36 AM"
+    },
+    "64847": {
+      "url": "https://core.trac.wordpress.org/ticket/64847",
+      "testers": [],
+      "reproducers": [
+        {
+          "user": "wildworks",
+          "quality": "low",
+          "reasons": [
+            "narrative_repro_strong"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/64847#comment:30"
+          ],
+          "newContributor": false,
+          "country": "Japan",
+          "memberSince": "July 31st, 2017"
+        }
+      ],
+      "changetime": "See timeline at 08/03/2026 11:56:07 AM"
+    },
+    "64848": {
+      "url": "https://core.trac.wordpress.org/ticket/64848",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 05/25/2026 01:18:20 AM"
+    },
+    "64877": {
+      "url": "https://core.trac.wordpress.org/ticket/64877",
+      "testers": [
+        {
+          "user": "jamesbregenzer",
+          "quality": "medium",
+          "reasons": [
+            "narrative_test_medium",
+            "narrative_test_with_visual"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/64877#comment:13"
+          ],
+          "newContributor": true,
+          "country": "United States",
+          "memberSince": "December 7th, 2014"
+        }
+      ],
+      "reproducers": [],
+      "changetime": "See timeline at 06/18/2026 02:07:30 AM"
+    },
+    "64892": {
+      "url": "https://core.trac.wordpress.org/ticket/64892",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 07/15/2026 11:46:21 AM"
+    },
+    "64893": {
+      "url": "https://core.trac.wordpress.org/ticket/64893",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 08/12/2026 12:51:40 AM"
+    },
+    "64894": {
+      "url": "https://core.trac.wordpress.org/ticket/64894",
+      "testers": [
+        {
+          "user": "westonruter",
+          "quality": "medium",
+          "reasons": [
+            "tested_patch_with_link"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/64894#comment:72"
+          ],
+          "newContributor": false,
+          "country": "United States",
+          "memberSince": "May 16th, 2007"
+        }
+      ],
+      "reproducers": [],
+      "changetime": "See timeline at 08/09/2026 06:52:44 PM"
+    },
+    "64896": {
+      "url": "https://core.trac.wordpress.org/ticket/64896",
+      "testers": [
+        {
+          "user": "westonruter",
+          "quality": "low",
+          "reasons": [
+            "narrative_test_medium"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/64896#comment:27"
+          ],
+          "newContributor": false,
+          "country": "United States",
+          "memberSince": "May 16th, 2007"
+        }
+      ],
+      "reproducers": [],
+      "changetime": "See timeline at 08/21/2026 07:00:23 PM"
+    },
+    "64897": {
+      "url": "https://core.trac.wordpress.org/ticket/64897",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 08/05/2026 03:07:25 PM"
+    },
+    "64898": {
+      "url": "https://core.trac.wordpress.org/ticket/64898",
+      "testers": [
+        {
+          "user": "westonruter",
+          "quality": "medium",
+          "reasons": [
+            "narrative_test_medium",
+            "tested_patch_with_link"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/64898#comment:50",
+            "https://core.trac.wordpress.org/ticket/64898#comment:79"
+          ],
+          "newContributor": false,
+          "country": "United States",
+          "memberSince": "May 16th, 2007"
+        }
+      ],
+      "reproducers": [],
+      "changetime": "See timeline at 08/21/2026 09:08:52 AM"
+    },
+    "64899": {
+      "url": "https://core.trac.wordpress.org/ticket/64899",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 08/12/2026 02:51:01 PM"
+    },
+    "64913": {
+      "url": "https://core.trac.wordpress.org/ticket/64913",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 07/08/2026 06:42:42 PM"
+    },
+    "64915": {
+      "url": "https://core.trac.wordpress.org/ticket/64915",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 07/01/2026 11:15:18 PM"
+    },
+    "64919": {
+      "url": "https://core.trac.wordpress.org/ticket/64919",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 07/30/2026 11:41:58 AM"
+    },
+    "64932": {
+      "url": "https://core.trac.wordpress.org/ticket/64932",
+      "testers": [
+        {
+          "user": "juliemoynat",
+          "quality": "low",
+          "reasons": [
+            "narrative_test_medium"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/64932#comment:7"
+          ],
+          "newContributor": true,
+          "country": "France",
+          "memberSince": "April 8th, 2017"
+        }
+      ],
+      "reproducers": [],
+      "changetime": "See timeline at 07/21/2026 10:59:30 PM"
+    },
+    "64952": {
+      "url": "https://core.trac.wordpress.org/ticket/64952",
+      "testers": [],
+      "reproducers": [
+        {
+          "user": "huzaifaalmesbah",
+          "quality": "high",
+          "reasons": [
+            "bug_emoji_struct",
+            "expected_behavior_struct",
+            "repro_heading"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/64952#comment:2"
+          ],
+          "newContributor": false,
+          "country": "Bangladesh",
+          "memberSince": "May 6th, 2023"
+        }
+      ],
+      "changetime": "See timeline at 07/23/2026 04:20:58 PM"
+    },
+    "64953": {
+      "url": "https://core.trac.wordpress.org/ticket/64953",
+      "testers": [
+        {
+          "user": "shailu25",
+          "quality": "high",
+          "reasons": [
+            "narrative_test_strong",
+            "patch_test_heading",
+            "struct_2_with_patch_signal",
+            "struct_3plus",
+            "tested_patch_with_link"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/64953#comment:28"
+          ],
+          "newContributor": false,
+          "country": "India",
+          "memberSince": "June 19th, 2019"
+        },
+        {
+          "user": "vedantere",
+          "quality": "low",
+          "reasons": [
+            "narrative_test_strong"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/64953#comment:26"
+          ],
+          "newContributor": true,
+          "country": "India",
+          "memberSince": "April 7th, 2026"
+        }
+      ],
+      "reproducers": [],
+      "changetime": "See timeline at 07/28/2026 09:59:15 AM"
+    },
+    "64955": {
+      "url": "https://core.trac.wordpress.org/ticket/64955",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 08/03/2026 06:16:39 AM"
+    },
+    "64963": {
+      "url": "https://core.trac.wordpress.org/ticket/64963",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 05/06/2026 07:51:34 PM"
+    },
+    "64968": {
+      "url": "https://core.trac.wordpress.org/ticket/64968",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 08/13/2026 10:40:13 AM"
+    },
+    "64969": {
+      "url": "https://core.trac.wordpress.org/ticket/64969",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 07/29/2026 07:51:11 PM"
+    },
+    "64974": {
+      "url": "https://core.trac.wordpress.org/ticket/64974",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 07/14/2026 11:36:14 PM"
+    },
+    "64977": {
+      "url": "https://core.trac.wordpress.org/ticket/64977",
+      "testers": [
+        {
+          "user": "r1k0",
+          "quality": "high",
+          "reasons": [
+            "expected_result_with_struct",
+            "narrative_test_strong",
+            "narrative_test_with_visual",
+            "patch_test_heading",
+            "struct_2_with_patch_signal",
+            "struct_3plus",
+            "tested_patch_with_link"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/64977#comment:11"
+          ],
+          "newContributor": false,
+          "country": "Kenya",
+          "memberSince": "May 17th, 2025"
+        },
+        {
+          "user": "yusufmudagal",
+          "quality": "medium",
+          "reasons": [
+            "tested_patch_with_link"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/64977#comment:10"
+          ],
+          "newContributor": true,
+          "country": "India",
+          "memberSince": "February 29th, 2016"
+        }
+      ],
+      "reproducers": [],
+      "changetime": "See timeline at 05/21/2026 06:56:43 AM"
+    },
+    "64989": {
+      "url": "https://core.trac.wordpress.org/ticket/64989",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 07/29/2026 08:08:47 AM"
+    },
+    "64990": {
+      "url": "https://core.trac.wordpress.org/ticket/64990",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 08/05/2026 11:56:20 AM"
+    },
+    "65014": {
+      "url": "https://core.trac.wordpress.org/ticket/65014",
+      "testers": [
+        {
+          "user": "valani9099",
+          "quality": "low",
+          "reasons": [
+            "narrative_test_medium"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65014#comment:14"
+          ],
+          "newContributor": true,
+          "country": "India",
+          "memberSince": "April 26th, 2019"
+        }
+      ],
+      "reproducers": [],
+      "changetime": "See timeline at 06/23/2026 03:52:39 PM"
+    },
+    "65016": {
+      "url": "https://core.trac.wordpress.org/ticket/65016",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 08/17/2026 10:01:25 AM"
+    },
+    "65022": {
+      "url": "https://core.trac.wordpress.org/ticket/65022",
+      "testers": [
+        {
+          "user": "jeffpaul",
+          "quality": "low",
+          "reasons": [
+            "narrative_test_medium"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65022#comment:13"
+          ],
+          "newContributor": false,
+          "country": "United States",
+          "memberSince": "December 23rd, 2009"
+        }
+      ],
+      "reproducers": [],
+      "changetime": "See timeline at 07/10/2026 12:06:52 PM"
+    },
+    "65025": {
+      "url": "https://core.trac.wordpress.org/ticket/65025",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 07/08/2026 12:12:39 AM"
+    },
+    "65026": {
+      "url": "https://core.trac.wordpress.org/ticket/65026",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 06/02/2026 01:58:45 PM"
+    },
+    "65027": {
+      "url": "https://core.trac.wordpress.org/ticket/65027",
+      "testers": [
+        {
+          "user": "reneyap",
+          "quality": "medium",
+          "reasons": [
+            "narrative_test_medium",
+            "narrative_test_strong",
+            "tested_patch_with_link"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65027#comment:11"
+          ],
+          "newContributor": true,
+          "country": null,
+          "memberSince": "June 24th, 2026"
+        }
+      ],
+      "reproducers": [],
+      "changetime": "See timeline at 07/13/2026 01:45:17 PM"
+    },
+    "65037": {
+      "url": "https://core.trac.wordpress.org/ticket/65037",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 07/14/2026 07:54:32 PM"
+    },
+    "65039": {
+      "url": "https://core.trac.wordpress.org/ticket/65039",
+      "testers": [
+        {
+          "user": "manishxdp",
+          "quality": "medium",
+          "reasons": [
+            "narrative_test_medium",
+            "narrative_test_with_visual"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65039#comment:2",
+            "https://core.trac.wordpress.org/ticket/65039#comment:3"
+          ],
+          "newContributor": true,
+          "country": null,
+          "memberSince": "February 4th, 2026"
+        }
+      ],
+      "reproducers": [],
+      "changetime": "See timeline at 06/03/2026 05:18:22 AM"
+    },
+    "65046": {
+      "url": "https://core.trac.wordpress.org/ticket/65046",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 05/26/2026 03:09:47 PM"
+    },
+    "65047": {
+      "url": "https://core.trac.wordpress.org/ticket/65047",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 05/24/2026 09:45:31 PM"
+    },
+    "65049": {
+      "url": "https://core.trac.wordpress.org/ticket/65049",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 06/29/2026 12:21:11 PM"
+    },
+    "65051": {
+      "url": "https://core.trac.wordpress.org/ticket/65051",
+      "testers": [
+        {
+          "user": "gaurangsondagar",
+          "quality": "medium",
+          "reasons": [
+            "narrative_test_strong",
+            "narrative_test_with_visual",
+            "tested_patch_with_link"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65051#comment:2"
+          ],
+          "newContributor": false,
+          "country": "India",
+          "memberSince": "January 22nd, 2016"
+        },
+        {
+          "user": "liaison",
+          "quality": "high",
+          "reasons": [
+            "patch_test_heading"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65051#comment:5"
+          ],
+          "newContributor": true,
+          "country": null,
+          "memberSince": "June 21st, 2021"
+        },
+        {
+          "user": "vgnavada",
+          "quality": "high",
+          "reasons": [
+            "narrative_test_medium",
+            "narrative_test_strong",
+            "narrative_test_with_visual",
+            "patch_test_heading",
+            "struct_2_with_patch_signal",
+            "struct_3plus",
+            "tested_patch_with_link"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65051#comment:9"
+          ],
+          "newContributor": false,
+          "country": "India",
+          "memberSince": "December 29th, 2011"
+        }
+      ],
+      "reproducers": [],
+      "changetime": "See timeline at 08/05/2026 01:33:07 AM"
+    },
+    "65053": {
+      "url": "https://core.trac.wordpress.org/ticket/65053",
+      "testers": [
+        {
+          "user": "adamsilverstein",
+          "quality": "low",
+          "reasons": [
+            "narrative_test_medium"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65053#comment:3"
+          ],
+          "newContributor": true,
+          "country": "United States",
+          "memberSince": "October 11th, 2012"
+        },
+        {
+          "user": "ozgursar",
+          "quality": "high",
+          "reasons": [
+            "before_after_with_image",
+            "expected_result_with_struct",
+            "narrative_test_strong",
+            "narrative_test_with_visual",
+            "patch_test_heading",
+            "struct_2_with_patch_signal",
+            "struct_3plus",
+            "tested_patch_with_link"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65053#comment:8"
+          ],
+          "newContributor": false,
+          "country": null,
+          "memberSince": "August 24th, 2017"
+        }
+      ],
+      "reproducers": [
+        {
+          "user": "adamsilverstein",
+          "quality": "low",
+          "reasons": [
+            "narrative_repro_strong"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65053#comment:1"
+          ],
+          "newContributor": true,
+          "country": "United States",
+          "memberSince": "October 11th, 2012"
+        },
+        {
+          "user": "jadavsanjay",
+          "quality": "high",
+          "reasons": [
+            "repro_heading"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65053#comment:5"
+          ],
+          "newContributor": true,
+          "country": "India",
+          "memberSince": "May 20th, 2020"
+        }
+      ],
+      "changetime": "See timeline at 07/14/2026 09:35:43 PM"
+    },
+    "65068": {
+      "url": "https://core.trac.wordpress.org/ticket/65068",
+      "testers": [
+        {
+          "user": "rollybueno",
+          "quality": "high",
+          "reasons": [
+            "expected_result_with_struct",
+            "narrative_test_medium",
+            "narrative_test_strong",
+            "patch_test_heading",
+            "struct_2_with_patch_signal",
+            "struct_3plus",
+            "tested_patch_with_link"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65068#comment:5"
+          ],
+          "newContributor": false,
+          "country": "Philippines",
+          "memberSince": "September 20th, 2010"
+        }
+      ],
+      "reproducers": [
+        {
+          "user": "rollybueno",
+          "quality": "high",
+          "reasons": [
+            "bug_emoji_struct",
+            "expected_behavior_struct",
+            "repro_heading"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65068#comment:4"
+          ],
+          "newContributor": false,
+          "country": "Philippines",
+          "memberSince": "September 20th, 2010"
+        }
+      ],
+      "changetime": "See timeline at 06/15/2026 08:13:56 PM"
+    },
+    "65075": {
+      "url": "https://core.trac.wordpress.org/ticket/65075",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 06/30/2026 06:55:22 PM"
+    },
+    "65088": {
+      "url": "https://core.trac.wordpress.org/ticket/65088",
+      "testers": [
+        {
+          "user": "fushar",
+          "quality": "medium",
+          "reasons": [
+            "before_after_with_image"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65088#comment:11"
+          ],
+          "newContributor": true,
+          "country": null,
+          "memberSince": "September 12th, 2022"
+        }
+      ],
+      "reproducers": [],
+      "changetime": "See timeline at 07/02/2026 12:39:40 PM"
+    },
+    "65091": {
+      "url": "https://core.trac.wordpress.org/ticket/65091",
+      "testers": [
+        {
+          "user": "fushar",
+          "quality": "low",
+          "reasons": [
+            "narrative_test_medium"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65091#comment:27"
+          ],
+          "newContributor": true,
+          "country": null,
+          "memberSince": "September 12th, 2022"
+        }
+      ],
+      "reproducers": [],
+      "changetime": "See timeline at 08/16/2026 11:41:24 PM"
+    },
+    "65096": {
+      "url": "https://core.trac.wordpress.org/ticket/65096",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 05/23/2026 06:16:46 PM"
+    },
+    "65098": {
+      "url": "https://core.trac.wordpress.org/ticket/65098",
+      "testers": [
+        {
+          "user": "abcd95",
+          "quality": "high",
+          "reasons": [
+            "before_after_with_image",
+            "narrative_test_medium",
+            "narrative_test_strong",
+            "narrative_test_with_visual",
+            "patch_test_heading",
+            "struct_2_with_patch_signal",
+            "struct_3plus",
+            "tested_patch_with_link"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65098#comment:8"
+          ],
+          "newContributor": true,
+          "country": "India",
+          "memberSince": "July 27th, 2024"
+        },
+        {
+          "user": "manhar",
+          "quality": "medium",
+          "reasons": [
+            "narrative_test_strong",
+            "narrative_test_with_visual"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65098#comment:12"
+          ],
+          "newContributor": false,
+          "country": "India",
+          "memberSince": "April 21st, 2025"
+        },
+        {
+          "user": "westonruter",
+          "quality": "medium",
+          "reasons": [
+            "before_after_with_image"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65098#comment:16"
+          ],
+          "newContributor": false,
+          "country": "United States",
+          "memberSince": "May 16th, 2007"
+        }
+      ],
+      "reproducers": [
+        {
+          "user": "westonruter",
+          "quality": "low",
+          "reasons": [
+            "narrative_repro_strong"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65098#comment:17"
+          ],
+          "newContributor": false,
+          "country": "United States",
+          "memberSince": "May 16th, 2007"
+        }
+      ],
+      "changetime": "See timeline at 06/18/2026 05:22:09 PM"
+    },
+    "65101": {
+      "url": "https://core.trac.wordpress.org/ticket/65101",
+      "testers": [
+        {
+          "user": "darshitrajyaguru97",
+          "quality": "high",
+          "reasons": [
+            "narrative_test_medium",
+            "struct_2_with_patch_signal",
+            "struct_3plus"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65101#comment:2"
+          ],
+          "newContributor": false,
+          "country": "India",
+          "memberSince": "June 23rd, 2023"
+        },
+        {
+          "user": "gaurangsondagar",
+          "quality": "high",
+          "reasons": [
+            "narrative_test_medium",
+            "narrative_test_strong",
+            "patch_test_heading",
+            "struct_2_with_patch_signal"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65101#comment:4"
+          ],
+          "newContributor": false,
+          "country": "India",
+          "memberSince": "January 22nd, 2016"
+        },
+        {
+          "user": "tusharaddweb",
+          "quality": "low",
+          "reasons": [
+            "narrative_test_strong"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65101#comment:3"
+          ],
+          "newContributor": false,
+          "country": "India",
+          "memberSince": "December 11th, 2023"
+        }
+      ],
+      "reproducers": [],
+      "changetime": "See timeline at 06/16/2026 04:29:47 AM"
+    },
+    "65102": {
+      "url": "https://core.trac.wordpress.org/ticket/65102",
+      "testers": [
+        {
+          "user": "alexodiy",
+          "quality": "medium",
+          "reasons": [
+            "struct_2_with_patch_signal",
+            "tested_patch_with_link"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65102#comment:5"
+          ],
+          "newContributor": true,
+          "country": null,
+          "memberSince": "February 28th, 2016"
+        },
+        {
+          "user": "manhar",
+          "quality": "low",
+          "reasons": [
+            "narrative_test_medium",
+            "narrative_test_strong"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65102#comment:6"
+          ],
+          "newContributor": false,
+          "country": "India",
+          "memberSince": "April 21st, 2025"
+        }
+      ],
+      "reproducers": [],
+      "changetime": "See timeline at 07/28/2026 10:32:40 AM"
+    },
+    "65107": {
+      "url": "https://core.trac.wordpress.org/ticket/65107",
+      "testers": [
+        {
+          "user": "manhar",
+          "quality": "medium",
+          "reasons": [
+            "before_after_with_image",
+            "narrative_test_strong",
+            "narrative_test_with_visual"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65107#comment:3"
+          ],
+          "newContributor": false,
+          "country": "India",
+          "memberSince": "April 21st, 2025"
+        }
+      ],
+      "reproducers": [],
+      "changetime": "See timeline at 05/30/2026 07:07:48 PM"
+    },
+    "65109": {
+      "url": "https://core.trac.wordpress.org/ticket/65109",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 05/25/2026 09:34:40 PM"
+    },
+    "65112": {
+      "url": "https://core.trac.wordpress.org/ticket/65112",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 07/10/2026 10:55:23 PM"
+    },
+    "65113": {
+      "url": "https://core.trac.wordpress.org/ticket/65113",
+      "testers": [
+        {
+          "user": "gaurangsondagar",
+          "quality": "high",
+          "reasons": [
+            "narrative_test_strong",
+            "narrative_test_with_visual",
+            "patch_test_heading",
+            "struct_2_with_patch_signal",
+            "struct_3plus",
+            "tested_patch_with_link"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65113#comment:5"
+          ],
+          "newContributor": false,
+          "country": "India",
+          "memberSince": "January 22nd, 2016"
+        }
+      ],
+      "reproducers": [],
+      "changetime": "See timeline at 05/28/2026 10:43:06 PM"
+    },
+    "65114": {
+      "url": "https://core.trac.wordpress.org/ticket/65114",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 07/28/2026 08:06:49 AM"
+    },
+    "65116": {
+      "url": "https://core.trac.wordpress.org/ticket/65116",
+      "testers": [
+        {
+          "user": "alshakero",
+          "quality": "medium",
+          "reasons": [
+            "playground_with_image"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65116#comment:1"
+          ],
+          "newContributor": true,
+          "country": "Poland",
+          "memberSince": "March 19th, 2020"
+        }
+      ],
+      "reproducers": [],
+      "changetime": "See timeline at 07/27/2026 09:05:18 AM"
+    },
+    "65118": {
+      "url": "https://core.trac.wordpress.org/ticket/65118",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 07/14/2026 05:41:50 AM"
+    },
+    "65119": {
+      "url": "https://core.trac.wordpress.org/ticket/65119",
+      "testers": [
+        {
+          "user": "gaurangsondagar",
+          "quality": "high",
+          "reasons": [
+            "narrative_test_strong",
+            "narrative_test_with_visual",
+            "patch_test_heading",
+            "struct_2_with_patch_signal",
+            "tested_patch_with_link"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65119#comment:4"
+          ],
+          "newContributor": false,
+          "country": "India",
+          "memberSince": "January 22nd, 2016"
+        }
+      ],
+      "reproducers": [],
+      "changetime": "See timeline at 07/11/2026 01:21:50 AM"
+    },
+    "65127": {
+      "url": "https://core.trac.wordpress.org/ticket/65127",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 06/25/2026 09:08:15 AM"
+    },
+    "65132": {
+      "url": "https://core.trac.wordpress.org/ticket/65132",
+      "testers": [
+        {
+          "user": "gaurangsondagar",
+          "quality": "medium",
+          "reasons": [
+            "narrative_test_strong",
+            "narrative_test_with_visual",
+            "struct_2_with_patch_signal",
+            "tested_patch_with_link"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65132#comment:2"
+          ],
+          "newContributor": false,
+          "country": "India",
+          "memberSince": "January 22nd, 2016"
+        }
+      ],
+      "reproducers": [],
+      "changetime": "See timeline at 07/07/2026 08:34:49 AM"
+    },
+    "65143": {
+      "url": "https://core.trac.wordpress.org/ticket/65143",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 07/14/2026 04:35:26 AM"
+    },
+    "65153": {
+      "url": "https://core.trac.wordpress.org/ticket/65153",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 07/01/2026 06:03:31 AM"
+    },
+    "65164": {
+      "url": "https://core.trac.wordpress.org/ticket/65164",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 06/17/2026 03:37:59 AM"
+    },
+    "65166": {
+      "url": "https://core.trac.wordpress.org/ticket/65166",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 07/07/2026 06:02:51 AM"
+    },
+    "65175": {
+      "url": "https://core.trac.wordpress.org/ticket/65175",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 05/19/2026 09:51:01 PM"
+    },
+    "65177": {
+      "url": "https://core.trac.wordpress.org/ticket/65177",
+      "testers": [
+        {
+          "user": "hbhalodia",
+          "quality": "medium",
+          "reasons": [
+            "before_after_with_image",
+            "narrative_test_medium",
+            "narrative_test_with_visual"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65177#comment:3",
+            "https://core.trac.wordpress.org/ticket/65177#comment:4"
+          ],
+          "newContributor": true,
+          "country": "India",
+          "memberSince": "September 30th, 2021"
+        }
+      ],
+      "reproducers": [
+        {
+          "user": "hbhalodia",
+          "quality": "low",
+          "reasons": [
+            "narrative_repro_strong"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65177#comment:2"
+          ],
+          "newContributor": true,
+          "country": "India",
+          "memberSince": "September 30th, 2021"
+        }
+      ],
+      "changetime": "See timeline at 06/04/2026 09:44:29 AM"
+    },
+    "65182": {
+      "url": "https://core.trac.wordpress.org/ticket/65182",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 05/16/2026 11:45:51 PM"
+    },
+    "65186": {
+      "url": "https://core.trac.wordpress.org/ticket/65186",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 05/12/2026 10:19:19 PM"
+    },
+    "65187": {
+      "url": "https://core.trac.wordpress.org/ticket/65187",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 05/14/2026 09:53:47 PM"
+    },
+    "65192": {
+      "url": "https://core.trac.wordpress.org/ticket/65192",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 05/18/2026 10:35:26 PM"
+    },
+    "65193": {
+      "url": "https://core.trac.wordpress.org/ticket/65193",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 05/15/2026 11:47:08 PM"
+    },
+    "65199": {
+      "url": "https://core.trac.wordpress.org/ticket/65199",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 05/13/2026 08:38:28 AM"
+    },
+    "65200": {
+      "url": "https://core.trac.wordpress.org/ticket/65200",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 05/11/2026 10:23:05 PM"
+    },
+    "65202": {
+      "url": "https://core.trac.wordpress.org/ticket/65202",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 05/10/2026 11:42:25 PM"
+    },
+    "65203": {
+      "url": "https://core.trac.wordpress.org/ticket/65203",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 05/09/2026 11:01:52 PM"
+    },
+    "65231": {
+      "url": "https://core.trac.wordpress.org/ticket/65231",
+      "testers": [
+        {
+          "user": "deepakprajapati",
+          "quality": "medium",
+          "reasons": [
+            "before_after_with_image"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65231#comment:2"
+          ],
+          "newContributor": true,
+          "country": "India",
+          "memberSince": "May 8th, 2023"
+        },
+        {
+          "user": "shreyasikhar26",
+          "quality": "medium",
+          "reasons": [
+            "before_after_with_image"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65231#comment:1"
+          ],
+          "newContributor": true,
+          "country": "India",
+          "memberSince": "October 11th, 2021"
+        }
+      ],
+      "reproducers": [
+        {
+          "user": "tusharaddweb",
+          "quality": "low",
+          "reasons": [
+            "narrative_repro_medium",
+            "narrative_repro_strong"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65231#comment:5"
+          ],
+          "newContributor": false,
+          "country": "India",
+          "memberSince": "December 11th, 2023"
+        }
+      ],
+      "changetime": "See timeline at 07/12/2026 08:55:20 PM"
+    },
+    "65234": {
+      "url": "https://core.trac.wordpress.org/ticket/65234",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 07/31/2026 07:30:22 PM"
+    },
+    "65239": {
+      "url": "https://core.trac.wordpress.org/ticket/65239",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 06/16/2026 07:01:52 AM"
+    },
+    "65246": {
+      "url": "https://core.trac.wordpress.org/ticket/65246",
+      "testers": [
+        {
+          "user": "deepakprajapati",
+          "quality": "medium",
+          "reasons": [
+            "before_after_with_image"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65246#comment:3"
+          ],
+          "newContributor": true,
+          "country": "India",
+          "memberSince": "May 8th, 2023"
+        }
+      ],
+      "reproducers": [],
+      "changetime": "See timeline at 08/04/2026 07:07:34 PM"
+    },
+    "65248": {
+      "url": "https://core.trac.wordpress.org/ticket/65248",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 07/31/2026 07:31:24 PM"
+    },
+    "65250": {
+      "url": "https://core.trac.wordpress.org/ticket/65250",
+      "testers": [
+        {
+          "user": "swapnil1010",
+          "quality": "medium",
+          "reasons": [
+            "before_after_with_image"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65250#comment:7"
+          ],
+          "newContributor": true,
+          "country": "India",
+          "memberSince": "May 20th, 2025"
+        }
+      ],
+      "reproducers": [],
+      "changetime": "See timeline at 06/28/2026 09:41:23 PM"
+    },
+    "65259": {
+      "url": "https://core.trac.wordpress.org/ticket/65259",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 08/02/2026 07:05:52 AM"
+    },
+    "65260": {
+      "url": "https://core.trac.wordpress.org/ticket/65260",
+      "testers": [
+        {
+          "user": "wildworks",
+          "quality": "low",
+          "reasons": [
+            "narrative_test_medium"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65260#comment:12"
+          ],
+          "newContributor": false,
+          "country": "Japan",
+          "memberSince": "July 31st, 2017"
+        }
+      ],
+      "reproducers": [
+        {
+          "user": "jonsurrell",
+          "quality": "low",
+          "reasons": [
+            "narrative_repro_strong"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65260#comment:9"
+          ],
+          "newContributor": true,
+          "country": "Spain",
+          "memberSince": "January 27th, 2011"
+        },
+        {
+          "user": "wildworks",
+          "quality": "low",
+          "reasons": [
+            "narrative_repro_medium"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65260#comment:8"
+          ],
+          "newContributor": false,
+          "country": "Japan",
+          "memberSince": "July 31st, 2017"
+        }
+      ],
+      "changetime": "See timeline at 06/25/2026 10:26:15 AM"
+    },
+    "65261": {
+      "url": "https://core.trac.wordpress.org/ticket/65261",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 06/18/2026 11:27:19 PM"
+    },
+    "65262": {
+      "url": "https://core.trac.wordpress.org/ticket/65262",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 07/08/2026 04:02:59 PM"
+    },
+    "65265": {
+      "url": "https://core.trac.wordpress.org/ticket/65265",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 07/01/2026 07:48:16 PM"
+    },
+    "65268": {
+      "url": "https://core.trac.wordpress.org/ticket/65268",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 07/07/2026 12:49:05 PM"
+    },
+    "65271": {
+      "url": "https://core.trac.wordpress.org/ticket/65271",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 06/08/2026 09:24:18 PM"
+    },
+    "65276": {
+      "url": "https://core.trac.wordpress.org/ticket/65276",
+      "testers": [
+        {
+          "user": "r1k0",
+          "quality": "high",
+          "reasons": [
+            "expected_result_with_struct",
+            "narrative_test_strong",
+            "narrative_test_with_visual",
+            "patch_test_heading",
+            "struct_2_with_patch_signal",
+            "struct_3plus",
+            "tested_patch_with_link"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65276#comment:16"
+          ],
+          "newContributor": false,
+          "country": "Kenya",
+          "memberSince": "May 17th, 2025"
+        }
+      ],
+      "reproducers": [],
+      "changetime": "See timeline at 07/30/2026 08:27:53 PM"
+    },
+    "65289": {
+      "url": "https://core.trac.wordpress.org/ticket/65289",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 05/21/2026 11:31:08 PM"
+    },
+    "65298": {
+      "url": "https://core.trac.wordpress.org/ticket/65298",
+      "testers": [
+        {
+          "user": "anukasha",
+          "quality": "high",
+          "reasons": [
+            "expected_result_with_struct",
+            "narrative_test_strong",
+            "patch_test_heading",
+            "struct_2_with_patch_signal",
+            "struct_3plus",
+            "tested_patch_with_link"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65298#comment:6"
+          ],
+          "newContributor": true,
+          "country": "India",
+          "memberSince": "March 31st, 2022"
+        },
+        {
+          "user": "drwpcom",
+          "quality": "high",
+          "reasons": [
+            "expected_result_with_struct",
+            "narrative_test_strong",
+            "patch_test_heading",
+            "struct_2_with_patch_signal",
+            "struct_3plus"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65298#comment:15"
+          ],
+          "newContributor": true,
+          "country": "Czech Republic",
+          "memberSince": "October 2nd, 2019"
+        },
+        {
+          "user": "hmbashar",
+          "quality": "high",
+          "reasons": [
+            "narrative_test_medium",
+            "narrative_test_strong",
+            "narrative_test_with_visual",
+            "patch_test_heading",
+            "tested_patch_with_link"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65298#comment:11"
+          ],
+          "newContributor": false,
+          "country": "Bangladesh",
+          "memberSince": "May 13th, 2013"
+        },
+        {
+          "user": "huzaifaalmesbah",
+          "quality": "high",
+          "reasons": [
+            "expected_result_with_struct",
+            "narrative_test_strong",
+            "patch_test_heading",
+            "playground_with_test_phrase",
+            "struct_2_with_patch_signal",
+            "struct_3plus",
+            "tested_patch_with_link"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65298#comment:7"
+          ],
+          "newContributor": false,
+          "country": "Bangladesh",
+          "memberSince": "May 6th, 2023"
+        },
+        {
+          "user": "nadabulija",
+          "quality": "high",
+          "reasons": [
+            "expected_result_with_struct",
+            "struct_2_with_patch_signal",
+            "struct_3plus"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65298#comment:12"
+          ],
+          "newContributor": true,
+          "country": null,
+          "memberSince": "May 25th, 2026"
+        },
+        {
+          "user": "noruzzaman",
+          "quality": "high",
+          "reasons": [
+            "narrative_test_medium",
+            "narrative_test_strong",
+            "patch_test_heading",
+            "struct_2_with_patch_signal",
+            "tested_patch_with_link"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65298#comment:8"
+          ],
+          "newContributor": false,
+          "country": "Bangladesh",
+          "memberSince": "February 19th, 2022"
+        },
+        {
+          "user": "pedrofigueroa1989",
+          "quality": "high",
+          "reasons": [
+            "expected_result_with_struct",
+            "narrative_test_strong",
+            "patch_test_heading",
+            "struct_2_with_patch_signal",
+            "struct_3plus",
+            "tested_patch_with_link"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65298#comment:14"
+          ],
+          "newContributor": false,
+          "country": "Spain",
+          "memberSince": "November 14th, 2024"
+        },
+        {
+          "user": "rejaulalomkhan",
+          "quality": "high",
+          "reasons": [
+            "expected_result_with_struct",
+            "narrative_test_strong",
+            "narrative_test_with_visual",
+            "patch_test_heading",
+            "playground_with_image",
+            "playground_with_test_phrase",
+            "struct_2_with_patch_signal",
+            "struct_3plus",
+            "tested_patch_with_link"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65298#comment:10"
+          ],
+          "newContributor": true,
+          "country": "Bangladesh",
+          "memberSince": "June 5th, 2024"
+        },
+        {
+          "user": "robert681",
+          "quality": "medium",
+          "reasons": [
+            "narrative_test_strong",
+            "struct_2_with_patch_signal",
+            "tested_patch_with_link"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65298#comment:13"
+          ],
+          "newContributor": true,
+          "country": "Netherlands",
+          "memberSince": "June 28th, 2014"
+        }
+      ],
+      "reproducers": [],
+      "changetime": "See timeline at 06/06/2026 12:13:47 PM"
+    },
+    "65301": {
+      "url": "https://core.trac.wordpress.org/ticket/65301",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 08/02/2026 07:17:57 AM"
+    },
+    "65315": {
+      "url": "https://core.trac.wordpress.org/ticket/65315",
+      "testers": [
+        {
+          "user": "westonruter",
+          "quality": "medium",
+          "reasons": [
+            "narrative_test_medium",
+            "narrative_test_with_visual"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65315#comment:18"
+          ],
+          "newContributor": false,
+          "country": "United States",
+          "memberSince": "May 16th, 2007"
+        }
+      ],
+      "reproducers": [],
+      "changetime": "See timeline at 07/12/2026 09:04:59 PM"
+    },
+    "65317": {
+      "url": "https://core.trac.wordpress.org/ticket/65317",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 06/03/2026 11:33:12 AM"
+    },
+    "65322": {
+      "url": "https://core.trac.wordpress.org/ticket/65322",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 08/12/2026 02:55:37 PM"
+    },
+    "65329": {
+      "url": "https://core.trac.wordpress.org/ticket/65329",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 07/02/2026 02:47:18 AM"
+    },
+    "65334": {
+      "url": "https://core.trac.wordpress.org/ticket/65334",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 07/10/2026 09:39:43 PM"
+    },
+    "65342": {
+      "url": "https://core.trac.wordpress.org/ticket/65342",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 07/24/2026 11:15:12 AM"
+    },
+    "65346": {
+      "url": "https://core.trac.wordpress.org/ticket/65346",
+      "testers": [
+        {
+          "user": "ekamran",
+          "quality": "low",
+          "reasons": [
+            "narrative_test_medium"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65346#comment:2"
+          ],
+          "newContributor": false,
+          "country": "India",
+          "memberSince": "June 18th, 2012"
+        }
+      ],
+      "reproducers": [],
+      "changetime": "See timeline at 08/11/2026 09:07:18 PM"
+    },
+    "65355": {
+      "url": "https://core.trac.wordpress.org/ticket/65355",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 07/31/2026 07:32:30 PM"
+    },
+    "65367": {
+      "url": "https://core.trac.wordpress.org/ticket/65367",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 07/01/2026 08:10:02 PM"
+    },
+    "65368": {
+      "url": "https://core.trac.wordpress.org/ticket/65368",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 06/30/2026 04:58:46 PM"
+    },
+    "65370": {
+      "url": "https://core.trac.wordpress.org/ticket/65370",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 07/14/2026 08:11:08 AM"
+    },
+    "65372": {
+      "url": "https://core.trac.wordpress.org/ticket/65372",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 08/26/2026 10:48:45 AM"
+    },
+    "65373": {
+      "url": "https://core.trac.wordpress.org/ticket/65373",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 07/13/2026 10:19:51 AM"
+    },
+    "65376": {
+      "url": "https://core.trac.wordpress.org/ticket/65376",
+      "testers": [
+        {
+          "user": "khokansardar",
+          "quality": "high",
+          "reasons": [
+            "narrative_test_medium",
+            "patch_test_heading",
+            "struct_2_with_patch_signal",
+            "struct_3plus",
+            "tested_patch_with_link"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65376#comment:10"
+          ],
+          "newContributor": true,
+          "country": "India",
+          "memberSince": "May 19th, 2022"
+        }
+      ],
+      "reproducers": [],
+      "changetime": "See timeline at 07/30/2026 04:45:34 AM"
+    },
+    "65379": {
+      "url": "https://core.trac.wordpress.org/ticket/65379",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 06/15/2026 11:45:45 PM"
+    },
+    "65380": {
+      "url": "https://core.trac.wordpress.org/ticket/65380",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 06/02/2026 06:27:40 AM"
+    },
+    "65382": {
+      "url": "https://core.trac.wordpress.org/ticket/65382",
+      "testers": [
+        {
+          "user": "fushar",
+          "quality": "medium",
+          "reasons": [
+            "before_after_with_image"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65382#comment:1",
+            "https://core.trac.wordpress.org/ticket/65382#comment:3",
+            "https://core.trac.wordpress.org/ticket/65382#comment:14"
+          ],
+          "newContributor": true,
+          "country": null,
+          "memberSince": "September 12th, 2022"
+        }
+      ],
+      "reproducers": [
+        {
+          "user": "simison",
+          "quality": "low",
+          "reasons": [
+            "narrative_repro_medium"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65382#comment:2"
+          ],
+          "newContributor": true,
+          "country": "Lithuania",
+          "memberSince": "June 18th, 2006"
+        }
+      ],
+      "changetime": "See timeline at 07/07/2026 04:18:28 PM"
+    },
+    "65384": {
+      "url": "https://core.trac.wordpress.org/ticket/65384",
+      "testers": [
+        {
+          "user": "tusharaddweb",
+          "quality": "low",
+          "reasons": [
+            "narrative_test_strong"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65384#comment:10"
+          ],
+          "newContributor": false,
+          "country": "India",
+          "memberSince": "December 11th, 2023"
+        }
+      ],
+      "reproducers": [],
+      "changetime": "See timeline at 06/13/2026 05:42:22 AM"
+    },
+    "65388": {
+      "url": "https://core.trac.wordpress.org/ticket/65388",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 07/15/2026 02:18:11 AM"
+    },
+    "65390": {
+      "url": "https://core.trac.wordpress.org/ticket/65390",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 06/11/2026 11:09:33 PM"
+    },
+    "65391": {
+      "url": "https://core.trac.wordpress.org/ticket/65391",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 06/15/2026 07:46:49 PM"
+    },
+    "65392": {
+      "url": "https://core.trac.wordpress.org/ticket/65392",
+      "testers": [
+        {
+          "user": "sanayasir",
+          "quality": "low",
+          "reasons": [
+            "narrative_test_strong"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65392#comment:5"
+          ],
+          "newContributor": true,
+          "country": "Pakistan",
+          "memberSince": "May 4th, 2026"
+        },
+        {
+          "user": "tyxla",
+          "quality": "low",
+          "reasons": [
+            "narrative_test_strong"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65392#comment:7"
+          ],
+          "newContributor": true,
+          "country": "Bulgaria",
+          "memberSince": "November 2nd, 2011"
+        }
+      ],
+      "reproducers": [],
+      "changetime": "See timeline at 07/04/2026 04:13:38 AM"
+    },
+    "65397": {
+      "url": "https://core.trac.wordpress.org/ticket/65397",
+      "testers": [
+        {
+          "user": "gazipress",
+          "quality": "high",
+          "reasons": [
+            "expected_result_with_struct",
+            "narrative_test_strong",
+            "narrative_test_with_visual",
+            "patch_test_heading",
+            "struct_2_with_patch_signal",
+            "struct_3plus"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65397#comment:3"
+          ],
+          "newContributor": true,
+          "country": null,
+          "memberSince": "August 8th, 2019"
+        },
+        {
+          "user": "jamesbregenzer",
+          "quality": "medium",
+          "reasons": [
+            "struct_2_with_patch_signal"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65397#comment:4"
+          ],
+          "newContributor": true,
+          "country": "United States",
+          "memberSince": "December 7th, 2014"
+        }
+      ],
+      "reproducers": [
+        {
+          "user": "manhar",
+          "quality": "low",
+          "reasons": [
+            "narrative_repro_medium"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65397#comment:5"
+          ],
+          "newContributor": false,
+          "country": "India",
+          "memberSince": "April 21st, 2025"
+        },
+        {
+          "user": "sanayasir",
+          "quality": "low",
+          "reasons": [
+            "narrative_repro_medium"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65397#comment:6"
+          ],
+          "newContributor": true,
+          "country": "Pakistan",
+          "memberSince": "May 4th, 2026"
+        }
+      ],
+      "changetime": "See timeline at 06/12/2026 01:44:51 AM"
+    },
+    "65399": {
+      "url": "https://core.trac.wordpress.org/ticket/65399",
+      "testers": [],
+      "reproducers": [
+        {
+          "user": "manhar",
+          "quality": "low",
+          "reasons": [
+            "narrative_repro_medium"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65399#comment:2"
+          ],
+          "newContributor": false,
+          "country": "India",
+          "memberSince": "April 21st, 2025"
+        }
+      ],
+      "changetime": "See timeline at 07/01/2026 06:12:56 PM"
+    },
+    "65400": {
+      "url": "https://core.trac.wordpress.org/ticket/65400",
+      "testers": [
+        {
+          "user": "yusufmudagal",
+          "quality": "low",
+          "reasons": [
+            "narrative_test_strong"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65400#comment:6"
+          ],
+          "newContributor": true,
+          "country": "India",
+          "memberSince": "February 29th, 2016"
+        }
+      ],
+      "reproducers": [
+        {
+          "user": "tusharbharti",
+          "quality": "high",
+          "reasons": [
+            "repro_heading"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65400#comment:3"
+          ],
+          "newContributor": true,
+          "country": "India",
+          "memberSince": "April 11th, 2025"
+        }
+      ],
+      "changetime": "See timeline at 06/09/2026 03:35:11 AM"
+    },
+    "65401": {
+      "url": "https://core.trac.wordpress.org/ticket/65401",
+      "testers": [
+        {
+          "user": "yusufmudagal",
+          "quality": "medium",
+          "reasons": [
+            "narrative_test_medium",
+            "narrative_test_strong",
+            "struct_2_with_patch_signal",
+            "tested_patch_with_link"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65401#comment:2"
+          ],
+          "newContributor": true,
+          "country": "India",
+          "memberSince": "February 29th, 2016"
+        }
+      ],
+      "reproducers": [],
+      "changetime": "See timeline at 06/09/2026 03:52:46 AM"
+    },
+    "65403": {
+      "url": "https://core.trac.wordpress.org/ticket/65403",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 06/04/2026 01:02:51 PM"
+    },
+    "65404": {
+      "url": "https://core.trac.wordpress.org/ticket/65404",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 06/04/2026 09:10:16 AM"
+    },
+    "65406": {
+      "url": "https://core.trac.wordpress.org/ticket/65406",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 06/18/2026 10:36:35 AM"
+    },
+    "65408": {
+      "url": "https://core.trac.wordpress.org/ticket/65408",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 06/08/2026 12:17:45 PM"
+    },
+    "65409": {
+      "url": "https://core.trac.wordpress.org/ticket/65409",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 07/05/2026 01:15:24 AM"
+    },
+    "65419": {
+      "url": "https://core.trac.wordpress.org/ticket/65419",
+      "testers": [
+        {
+          "user": "jamesbregenzer",
+          "quality": "medium",
+          "reasons": [
+            "narrative_test_medium",
+            "struct_2_with_patch_signal",
+            "tested_patch_with_link"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65419#comment:10"
+          ],
+          "newContributor": true,
+          "country": "United States",
+          "memberSince": "December 7th, 2014"
+        },
+        {
+          "user": "manhar",
+          "quality": "medium",
+          "reasons": [
+            "before_after_with_image",
+            "narrative_test_medium",
+            "narrative_test_with_visual"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65419#comment:2"
+          ],
+          "newContributor": false,
+          "country": "India",
+          "memberSince": "April 21st, 2025"
+        },
+        {
+          "user": "r1k0",
+          "quality": "high",
+          "reasons": [
+            "before_after_with_image",
+            "expected_result_with_struct",
+            "narrative_test_medium",
+            "narrative_test_strong",
+            "narrative_test_with_visual",
+            "patch_test_heading",
+            "struct_2_with_patch_signal",
+            "struct_3plus",
+            "tested_patch_with_link"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65419#comment:9"
+          ],
+          "newContributor": false,
+          "country": "Kenya",
+          "memberSince": "May 17th, 2025"
+        },
+        {
+          "user": "sanayasir",
+          "quality": "low",
+          "reasons": [
+            "narrative_test_medium",
+            "narrative_test_strong"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65419#comment:8"
+          ],
+          "newContributor": true,
+          "country": "Pakistan",
+          "memberSince": "May 4th, 2026"
+        }
+      ],
+      "reproducers": [],
+      "changetime": "See timeline at 07/21/2026 09:09:07 PM"
+    },
+    "65421": {
+      "url": "https://core.trac.wordpress.org/ticket/65421",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 07/15/2026 08:33:40 AM"
+    },
+    "65422": {
+      "url": "https://core.trac.wordpress.org/ticket/65422",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 06/25/2026 08:49:43 AM"
+    },
+    "65423": {
+      "url": "https://core.trac.wordpress.org/ticket/65423",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 07/04/2026 11:32:49 PM"
+    },
+    "65435": {
+      "url": "https://core.trac.wordpress.org/ticket/65435",
+      "testers": [
+        {
+          "user": "tusharbharti",
+          "quality": "medium",
+          "reasons": [
+            "before_after_with_image"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65435#comment:1"
+          ],
+          "newContributor": true,
+          "country": "India",
+          "memberSince": "April 11th, 2025"
+        }
+      ],
+      "reproducers": [],
+      "changetime": "See timeline at 06/18/2026 12:09:24 AM"
+    },
+    "65438": {
+      "url": "https://core.trac.wordpress.org/ticket/65438",
+      "testers": [
+        {
+          "user": "ankitkumarshah",
+          "quality": "medium",
+          "reasons": [
+            "before_after_with_image"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65438#comment:9"
+          ],
+          "newContributor": false,
+          "country": "India",
+          "memberSince": "October 1st, 2024"
+        }
+      ],
+      "reproducers": [],
+      "changetime": "See timeline at 08/11/2026 09:38:13 PM"
+    },
+    "65452": {
+      "url": "https://core.trac.wordpress.org/ticket/65452",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 07/06/2026 04:45:18 PM"
+    },
+    "65453": {
+      "url": "https://core.trac.wordpress.org/ticket/65453",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 06/12/2026 11:42:28 PM"
+    },
+    "65454": {
+      "url": "https://core.trac.wordpress.org/ticket/65454",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 07/13/2026 02:59:42 PM"
+    },
+    "65456": {
+      "url": "https://core.trac.wordpress.org/ticket/65456",
+      "testers": [
+        {
+          "user": "n8finch",
+          "quality": "medium",
+          "reasons": [
+            "narrative_test_medium",
+            "playground_with_test_phrase"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65456#comment:3"
+          ],
+          "newContributor": false,
+          "country": "United States",
+          "memberSince": "November 21st, 2012"
+        }
+      ],
+      "reproducers": [],
+      "changetime": "See timeline at 06/27/2026 09:44:27 PM"
+    },
+    "65457": {
+      "url": "https://core.trac.wordpress.org/ticket/65457",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 06/19/2026 06:41:14 AM"
+    },
+    "65462": {
+      "url": "https://core.trac.wordpress.org/ticket/65462",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 06/16/2026 06:49:07 AM"
+    },
+    "65464": {
+      "url": "https://core.trac.wordpress.org/ticket/65464",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 07/14/2026 02:10:45 PM"
+    },
+    "65467": {
+      "url": "https://core.trac.wordpress.org/ticket/65467",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 06/18/2026 05:49:06 PM"
+    },
+    "65468": {
+      "url": "https://core.trac.wordpress.org/ticket/65468",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 06/20/2026 11:33:36 PM"
+    },
+    "65470": {
+      "url": "https://core.trac.wordpress.org/ticket/65470",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 07/31/2026 01:56:57 PM"
+    },
+    "65477": {
+      "url": "https://core.trac.wordpress.org/ticket/65477",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 06/21/2026 11:33:17 PM"
+    },
+    "65481": {
+      "url": "https://core.trac.wordpress.org/ticket/65481",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 07/08/2026 04:01:03 PM"
+    },
+    "65482": {
+      "url": "https://core.trac.wordpress.org/ticket/65482",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 07/07/2026 09:44:42 PM"
+    },
+    "65483": {
+      "url": "https://core.trac.wordpress.org/ticket/65483",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 07/04/2026 04:14:27 AM"
+    },
+    "65489": {
+      "url": "https://core.trac.wordpress.org/ticket/65489",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 08/05/2026 02:02:22 PM"
+    },
+    "65491": {
+      "url": "https://core.trac.wordpress.org/ticket/65491",
+      "testers": [
+        {
+          "user": "mirmpro",
+          "quality": "high",
+          "reasons": [
+            "expected_result_with_struct",
+            "narrative_test_medium",
+            "narrative_test_strong",
+            "patch_test_heading",
+            "struct_2_with_patch_signal",
+            "struct_3plus",
+            "tested_patch_with_link"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65491#comment:28"
+          ],
+          "newContributor": true,
+          "country": "Bangladesh",
+          "memberSince": "August 7th, 2023"
+        }
+      ],
+      "reproducers": [
+        {
+          "user": "sanayasir",
+          "quality": "low",
+          "reasons": [
+            "narrative_repro_medium"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65491#comment:18"
+          ],
+          "newContributor": true,
+          "country": "Pakistan",
+          "memberSince": "May 4th, 2026"
+        }
+      ],
+      "changetime": "See timeline at 08/03/2026 03:42:24 PM"
+    },
+    "65492": {
+      "url": "https://core.trac.wordpress.org/ticket/65492",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 06/19/2026 12:46:00 PM"
+    },
+    "65495": {
+      "url": "https://core.trac.wordpress.org/ticket/65495",
+      "testers": [
+        {
+          "user": "dhrupo",
+          "quality": "high",
+          "reasons": [
+            "narrative_test_medium",
+            "narrative_test_strong",
+            "patch_test_heading"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65495#comment:2"
+          ],
+          "newContributor": true,
+          "country": "Bangladesh",
+          "memberSince": "September 22nd, 2021"
+        }
+      ],
+      "reproducers": [],
+      "changetime": "See timeline at 07/31/2026 06:08:14 AM"
+    },
+    "65503": {
+      "url": "https://core.trac.wordpress.org/ticket/65503",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 06/25/2026 10:03:55 AM"
+    },
+    "65504": {
+      "url": "https://core.trac.wordpress.org/ticket/65504",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 06/25/2026 07:57:56 AM"
+    },
+    "65506": {
+      "url": "https://core.trac.wordpress.org/ticket/65506",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 07/07/2026 03:05:44 AM"
+    },
+    "65509": {
+      "url": "https://core.trac.wordpress.org/ticket/65509",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 07/11/2026 10:17:57 AM"
+    },
+    "65512": {
+      "url": "https://core.trac.wordpress.org/ticket/65512",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 06/25/2026 08:00:10 AM"
+    },
+    "65514": {
+      "url": "https://core.trac.wordpress.org/ticket/65514",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 06/22/2026 11:13:50 PM"
+    },
+    "65516": {
+      "url": "https://core.trac.wordpress.org/ticket/65516",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 07/22/2026 11:14:05 AM"
+    },
+    "65519": {
+      "url": "https://core.trac.wordpress.org/ticket/65519",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 07/15/2026 12:51:47 PM"
+    },
+    "65525": {
+      "url": "https://core.trac.wordpress.org/ticket/65525",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 07/15/2026 10:05:56 AM"
+    },
+    "65527": {
+      "url": "https://core.trac.wordpress.org/ticket/65527",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 06/30/2026 04:36:26 PM"
+    },
+    "65529": {
+      "url": "https://core.trac.wordpress.org/ticket/65529",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 08/17/2026 09:59:01 AM"
+    },
+    "65530": {
+      "url": "https://core.trac.wordpress.org/ticket/65530",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 07/01/2026 03:06:27 PM"
+    },
+    "65531": {
+      "url": "https://core.trac.wordpress.org/ticket/65531",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 06/25/2026 06:55:13 AM"
+    },
+    "65532": {
+      "url": "https://core.trac.wordpress.org/ticket/65532",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 07/01/2026 03:07:00 PM"
+    },
+    "65533": {
+      "url": "https://core.trac.wordpress.org/ticket/65533",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 07/15/2026 08:43:27 AM"
+    },
+    "65536": {
+      "url": "https://core.trac.wordpress.org/ticket/65536",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 06/30/2026 10:13:38 AM"
+    },
+    "65538": {
+      "url": "https://core.trac.wordpress.org/ticket/65538",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 07/13/2026 05:17:46 AM"
+    },
+    "65540": {
+      "url": "https://core.trac.wordpress.org/ticket/65540",
+      "testers": [
+        {
+          "user": "khokansardar",
+          "quality": "high",
+          "reasons": [
+            "patch_test_heading",
+            "struct_2_with_patch_signal",
+            "struct_3plus",
+            "tested_patch_with_link"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65540#comment:4"
+          ],
+          "newContributor": true,
+          "country": "India",
+          "memberSince": "May 19th, 2022"
+        }
+      ],
+      "reproducers": [
+        {
+          "user": "mkrndmane",
+          "quality": "low",
+          "reasons": [
+            "narrative_repro_medium"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65540#comment:2"
+          ],
+          "newContributor": true,
+          "country": "India",
+          "memberSince": "August 9th, 2011"
+        }
+      ],
+      "changetime": "See timeline at 06/27/2026 10:17:33 PM"
+    },
+    "65541": {
+      "url": "https://core.trac.wordpress.org/ticket/65541",
+      "testers": [
+        {
+          "user": "khokansardar",
+          "quality": "high",
+          "reasons": [
+            "patch_test_heading",
+            "struct_2_with_patch_signal",
+            "tested_patch_with_link"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65541#comment:3"
+          ],
+          "newContributor": true,
+          "country": "India",
+          "memberSince": "May 19th, 2022"
+        }
+      ],
+      "reproducers": [],
+      "changetime": "See timeline at 06/26/2026 10:49:13 PM"
+    },
+    "65542": {
+      "url": "https://core.trac.wordpress.org/ticket/65542",
+      "testers": [
+        {
+          "user": "khokansardar",
+          "quality": "high",
+          "reasons": [
+            "patch_test_heading",
+            "struct_2_with_patch_signal",
+            "struct_3plus",
+            "tested_patch_with_link"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65542#comment:2"
+          ],
+          "newContributor": true,
+          "country": "India",
+          "memberSince": "May 19th, 2022"
+        }
+      ],
+      "reproducers": [
+        {
+          "user": "mkrndmane",
+          "quality": "low",
+          "reasons": [
+            "narrative_repro_medium"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65542#comment:1"
+          ],
+          "newContributor": true,
+          "country": "India",
+          "memberSince": "August 9th, 2011"
+        }
+      ],
+      "changetime": "See timeline at 06/28/2026 11:21:10 PM"
+    },
+    "65544": {
+      "url": "https://core.trac.wordpress.org/ticket/65544",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 06/30/2026 12:26:24 AM"
+    },
+    "65549": {
+      "url": "https://core.trac.wordpress.org/ticket/65549",
+      "testers": [
+        {
+          "user": "khokansardar",
+          "quality": "high",
+          "reasons": [
+            "patch_test_heading",
+            "struct_2_with_patch_signal",
+            "struct_3plus",
+            "tested_patch_with_link"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65549#comment:3"
+          ],
+          "newContributor": true,
+          "country": "India",
+          "memberSince": "May 19th, 2022"
+        }
+      ],
+      "reproducers": [],
+      "changetime": "See timeline at 07/04/2026 04:13:01 AM"
+    },
+    "65552": {
+      "url": "https://core.trac.wordpress.org/ticket/65552",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 06/30/2026 06:55:14 AM"
+    },
+    "65555": {
+      "url": "https://core.trac.wordpress.org/ticket/65555",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 06/30/2026 12:02:25 AM"
+    },
+    "65556": {
+      "url": "https://core.trac.wordpress.org/ticket/65556",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 06/30/2026 12:19:30 AM"
+    },
+    "65557": {
+      "url": "https://core.trac.wordpress.org/ticket/65557",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 06/30/2026 12:34:48 AM"
+    },
+    "65558": {
+      "url": "https://core.trac.wordpress.org/ticket/65558",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 06/30/2026 12:50:43 AM"
+    },
+    "65559": {
+      "url": "https://core.trac.wordpress.org/ticket/65559",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 06/30/2026 01:02:58 AM"
+    },
+    "65560": {
+      "url": "https://core.trac.wordpress.org/ticket/65560",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 06/30/2026 01:12:30 AM"
+    },
+    "65561": {
+      "url": "https://core.trac.wordpress.org/ticket/65561",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 07/14/2026 05:08:44 AM"
+    },
+    "65564": {
+      "url": "https://core.trac.wordpress.org/ticket/65564",
+      "testers": [
+        {
+          "user": "mukesh27",
+          "quality": "medium",
+          "reasons": [
+            "before_after_with_image"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65564#comment:30"
+          ],
+          "newContributor": false,
+          "country": "India",
+          "memberSince": "May 2nd, 2012"
+        },
+        {
+          "user": "tyxla",
+          "quality": "medium",
+          "reasons": [
+            "before_after_with_image"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65564#comment:26"
+          ],
+          "newContributor": true,
+          "country": "Bulgaria",
+          "memberSince": "November 2nd, 2011"
+        }
+      ],
+      "reproducers": [],
+      "changetime": "See timeline at 08/15/2026 04:50:34 PM"
+    },
+    "65565": {
+      "url": "https://core.trac.wordpress.org/ticket/65565",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 07/15/2026 04:41:20 PM"
+    },
+    "65568": {
+      "url": "https://core.trac.wordpress.org/ticket/65568",
+      "testers": [
+        {
+          "user": "khokansardar",
+          "quality": "high",
+          "reasons": [
+            "patch_test_heading",
+            "struct_2_with_patch_signal",
+            "struct_3plus",
+            "tested_patch_with_link"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65568#comment:4"
+          ],
+          "newContributor": true,
+          "country": "India",
+          "memberSince": "May 19th, 2022"
+        }
+      ],
+      "reproducers": [],
+      "changetime": "See timeline at 08/04/2026 12:51:45 PM"
+    },
+    "65570": {
+      "url": "https://core.trac.wordpress.org/ticket/65570",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 07/09/2026 05:22:33 PM"
+    },
+    "65571": {
+      "url": "https://core.trac.wordpress.org/ticket/65571",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 08/04/2026 02:50:16 AM"
+    },
+    "65577": {
+      "url": "https://core.trac.wordpress.org/ticket/65577",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 08/03/2026 02:20:37 PM"
+    },
+    "65581": {
+      "url": "https://core.trac.wordpress.org/ticket/65581",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 07/15/2026 01:48:37 PM"
+    },
+    "65582": {
+      "url": "https://core.trac.wordpress.org/ticket/65582",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 08/03/2026 07:25:44 PM"
+    },
+    "65584": {
+      "url": "https://core.trac.wordpress.org/ticket/65584",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 07/05/2026 01:15:24 AM"
+    },
+    "65585": {
+      "url": "https://core.trac.wordpress.org/ticket/65585",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 07/06/2026 04:50:10 PM"
+    },
+    "65586": {
+      "url": "https://core.trac.wordpress.org/ticket/65586",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 07/22/2026 01:17:27 AM"
+    },
+    "65588": {
+      "url": "https://core.trac.wordpress.org/ticket/65588",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 07/13/2026 01:46:07 AM"
+    },
+    "65589": {
+      "url": "https://core.trac.wordpress.org/ticket/65589",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 07/14/2026 05:03:52 PM"
+    },
+    "65592": {
+      "url": "https://core.trac.wordpress.org/ticket/65592",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 07/14/2026 06:48:44 AM"
+    },
+    "65594": {
+      "url": "https://core.trac.wordpress.org/ticket/65594",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 07/09/2026 11:10:10 AM"
+    },
+    "65595": {
+      "url": "https://core.trac.wordpress.org/ticket/65595",
+      "testers": [
+        {
+          "user": "mosescursor",
+          "quality": "high",
+          "reasons": [
+            "expected_result_with_struct",
+            "narrative_test_medium",
+            "narrative_test_strong",
+            "narrative_test_with_visual",
+            "patch_test_heading",
+            "struct_2_with_patch_signal",
+            "struct_3plus",
+            "tested_patch_with_link"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65595#comment:11"
+          ],
+          "newContributor": false,
+          "country": "Uganda",
+          "memberSince": "February 18th, 2020"
+        }
+      ],
+      "reproducers": [],
+      "changetime": "See timeline at 07/13/2026 10:38:44 AM"
+    },
+    "65596": {
+      "url": "https://core.trac.wordpress.org/ticket/65596",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 07/09/2026 01:46:33 AM"
+    },
+    "65601": {
+      "url": "https://core.trac.wordpress.org/ticket/65601",
+      "testers": [
+        {
+          "user": "eishanoor",
+          "quality": "high",
+          "reasons": [
+            "narrative_test_medium",
+            "narrative_test_strong",
+            "patch_test_heading",
+            "struct_2_with_patch_signal"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65601#comment:7"
+          ],
+          "newContributor": true,
+          "country": "Pakistan",
+          "memberSince": "May 20th, 2026"
+        },
+        {
+          "user": "mosescursor",
+          "quality": "high",
+          "reasons": [
+            "narrative_test_strong",
+            "patch_test_heading",
+            "struct_2_with_patch_signal",
+            "tested_patch_with_link"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65601#comment:11",
+            "https://core.trac.wordpress.org/ticket/65601#comment:17"
+          ],
+          "newContributor": false,
+          "country": "Uganda",
+          "memberSince": "February 18th, 2020"
+        },
+        {
+          "user": "shailu25",
+          "quality": "high",
+          "reasons": [
+            "narrative_test_strong",
+            "patch_test_heading",
+            "struct_2_with_patch_signal",
+            "struct_3plus",
+            "tested_patch_with_link"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65601#comment:15"
+          ],
+          "newContributor": false,
+          "country": "India",
+          "memberSince": "June 19th, 2019"
+        },
+        {
+          "user": "ugyensupport",
+          "quality": "high",
+          "reasons": [
+            "expected_result_with_struct",
+            "narrative_test_strong",
+            "patch_test_heading",
+            "struct_2_with_patch_signal",
+            "struct_3plus",
+            "tested_patch_with_link"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65601#comment:12"
+          ],
+          "newContributor": false,
+          "country": "Bhutan",
+          "memberSince": "August 24th, 2016"
+        },
+        {
+          "user": "vedantere",
+          "quality": "high",
+          "reasons": [
+            "narrative_test_medium",
+            "narrative_test_strong",
+            "patch_test_heading",
+            "struct_2_with_patch_signal"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65601#comment:8"
+          ],
+          "newContributor": true,
+          "country": "India",
+          "memberSince": "April 7th, 2026"
+        },
+        {
+          "user": "wildworks",
+          "quality": "medium",
+          "reasons": [
+            "before_after_with_image"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65601#comment:14"
+          ],
+          "newContributor": false,
+          "country": "Japan",
+          "memberSince": "July 31st, 2017"
+        }
+      ],
+      "reproducers": [
+        {
+          "user": "r1k0",
+          "quality": "high",
+          "reasons": [
+            "bug_emoji_struct",
+            "expected_behavior_struct",
+            "narrative_repro_strong",
+            "repro_heading"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65601#comment:4"
+          ],
+          "newContributor": false,
+          "country": "Kenya",
+          "memberSince": "May 17th, 2025"
+        }
+      ],
+      "changetime": "See timeline at 08/04/2026 01:26:26 PM"
+    },
+    "65602": {
+      "url": "https://core.trac.wordpress.org/ticket/65602",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 07/13/2026 09:41:35 AM"
+    },
+    "65604": {
+      "url": "https://core.trac.wordpress.org/ticket/65604",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 07/15/2026 01:50:01 PM"
+    },
+    "65605": {
+      "url": "https://core.trac.wordpress.org/ticket/65605",
+      "testers": [
+        {
+          "user": "iamchitti",
+          "quality": "low",
+          "reasons": [
+            "narrative_test_medium"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65605#comment:7"
+          ],
+          "newContributor": true,
+          "country": null,
+          "memberSince": "April 9th, 2023"
+        },
+        {
+          "user": "noruzzaman",
+          "quality": "high",
+          "reasons": [
+            "before_after_with_image",
+            "expected_result_with_struct",
+            "narrative_test_strong",
+            "narrative_test_with_visual",
+            "patch_test_heading",
+            "struct_2_with_patch_signal",
+            "struct_3plus",
+            "tested_patch_with_link"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65605#comment:10"
+          ],
+          "newContributor": false,
+          "country": "Bangladesh",
+          "memberSince": "February 19th, 2022"
+        },
+        {
+          "user": "shailu25",
+          "quality": "high",
+          "reasons": [
+            "narrative_test_strong",
+            "patch_test_heading",
+            "struct_2_with_patch_signal",
+            "struct_3plus",
+            "tested_patch_with_link"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65605#comment:12"
+          ],
+          "newContributor": false,
+          "country": "India",
+          "memberSince": "June 19th, 2019"
+        },
+        {
+          "user": "soyebsalar01",
+          "quality": "high",
+          "reasons": [
+            "narrative_test_medium",
+            "narrative_test_strong",
+            "narrative_test_with_visual",
+            "patch_test_heading",
+            "struct_2_with_patch_signal"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65605#comment:4"
+          ],
+          "newContributor": false,
+          "country": "India",
+          "memberSince": "May 2nd, 2025"
+        },
+        {
+          "user": "ugyensupport",
+          "quality": "high",
+          "reasons": [
+            "expected_result_with_struct",
+            "narrative_test_strong",
+            "narrative_test_with_visual",
+            "patch_test_heading",
+            "struct_2_with_patch_signal",
+            "struct_3plus",
+            "tested_patch_with_link"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65605#comment:11"
+          ],
+          "newContributor": false,
+          "country": "Bhutan",
+          "memberSince": "August 24th, 2016"
+        }
+      ],
+      "reproducers": [],
+      "changetime": "See timeline at 08/02/2026 09:59:18 PM"
+    },
+    "65606": {
+      "url": "https://core.trac.wordpress.org/ticket/65606",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 07/10/2026 12:41:53 PM"
+    },
+    "65611": {
+      "url": "https://core.trac.wordpress.org/ticket/65611",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 08/04/2026 07:25:23 AM"
+    },
+    "65615": {
+      "url": "https://core.trac.wordpress.org/ticket/65615",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 07/15/2026 01:50:26 PM"
+    },
+    "65618": {
+      "url": "https://core.trac.wordpress.org/ticket/65618",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 08/01/2026 05:52:55 AM"
+    },
+    "65619": {
+      "url": "https://core.trac.wordpress.org/ticket/65619",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 07/15/2026 01:50:55 PM"
+    },
+    "65620": {
+      "url": "https://core.trac.wordpress.org/ticket/65620",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 08/06/2026 11:15:31 PM"
+    },
+    "65622": {
+      "url": "https://core.trac.wordpress.org/ticket/65622",
+      "testers": [
+        {
+          "user": "luisdavid01",
+          "quality": "high",
+          "reasons": [
+            "expected_result_with_struct",
+            "narrative_test_strong",
+            "patch_test_heading",
+            "struct_2_with_patch_signal",
+            "struct_3plus",
+            "tested_patch_with_link"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65622#comment:7"
+          ],
+          "newContributor": true,
+          "country": "United States",
+          "memberSince": "May 13th, 2026"
+        },
+        {
+          "user": "vedantere",
+          "quality": "high",
+          "reasons": [
+            "narrative_test_strong",
+            "patch_test_heading",
+            "struct_2_with_patch_signal",
+            "struct_3plus",
+            "tested_patch_with_link"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65622#comment:8"
+          ],
+          "newContributor": true,
+          "country": "India",
+          "memberSince": "April 7th, 2026"
+        }
+      ],
+      "reproducers": [],
+      "changetime": "See timeline at 08/04/2026 11:10:17 PM"
+    },
+    "65623": {
+      "url": "https://core.trac.wordpress.org/ticket/65623",
+      "testers": [
+        {
+          "user": "fatimatd",
+          "quality": "high",
+          "reasons": [
+            "narrative_test_medium",
+            "patch_test_heading",
+            "struct_2_with_patch_signal"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65623#comment:7",
+            "https://core.trac.wordpress.org/ticket/65623#comment:8"
+          ],
+          "newContributor": true,
+          "country": "Pakistan",
+          "memberSince": "May 15th, 2026"
+        },
+        {
+          "user": "soyebsalar01",
+          "quality": "low",
+          "reasons": [
+            "narrative_test_strong"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65623#comment:2"
+          ],
+          "newContributor": false,
+          "country": "India",
+          "memberSince": "May 2nd, 2025"
+        }
+      ],
+      "reproducers": [],
+      "changetime": "See timeline at 07/20/2026 03:29:48 PM"
+    },
+    "65624": {
+      "url": "https://core.trac.wordpress.org/ticket/65624",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 07/15/2026 07:22:37 AM"
+    },
+    "65625": {
+      "url": "https://core.trac.wordpress.org/ticket/65625",
+      "testers": [
+        {
+          "user": "sanayasir",
+          "quality": "medium",
+          "reasons": [
+            "narrative_test_medium",
+            "narrative_test_strong",
+            "struct_2_with_patch_signal"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65625#comment:5"
+          ],
+          "newContributor": true,
+          "country": "Pakistan",
+          "memberSince": "May 4th, 2026"
+        }
+      ],
+      "reproducers": [],
+      "changetime": "See timeline at 07/14/2026 10:41:12 AM"
+    },
+    "65629": {
+      "url": "https://core.trac.wordpress.org/ticket/65629",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 07/15/2026 09:38:43 AM"
+    },
+    "65630": {
+      "url": "https://core.trac.wordpress.org/ticket/65630",
+      "testers": [
+        {
+          "user": "iamchitti",
+          "quality": "medium",
+          "reasons": [
+            "before_after_with_image"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65630#comment:5"
+          ],
+          "newContributor": true,
+          "country": null,
+          "memberSince": "April 9th, 2023"
+        }
+      ],
+      "reproducers": [],
+      "changetime": "See timeline at 07/16/2026 09:12:32 AM"
+    },
+    "65632": {
+      "url": "https://core.trac.wordpress.org/ticket/65632",
+      "testers": [
+        {
+          "user": "khokansardar",
+          "quality": "high",
+          "reasons": [
+            "patch_test_heading",
+            "struct_2_with_patch_signal",
+            "struct_3plus",
+            "tested_patch_with_link"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65632#comment:6"
+          ],
+          "newContributor": true,
+          "country": "India",
+          "memberSince": "May 19th, 2022"
+        },
+        {
+          "user": "luisdavid01",
+          "quality": "high",
+          "reasons": [
+            "expected_result_with_struct",
+            "narrative_test_strong",
+            "patch_test_heading",
+            "struct_2_with_patch_signal",
+            "struct_3plus",
+            "tested_patch_with_link"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65632#comment:3"
+          ],
+          "newContributor": true,
+          "country": "United States",
+          "memberSince": "May 13th, 2026"
+        }
+      ],
+      "reproducers": [],
+      "changetime": "See timeline at 07/15/2026 05:51:23 AM"
+    },
+    "65636": {
+      "url": "https://core.trac.wordpress.org/ticket/65636",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 07/15/2026 04:27:04 AM"
+    },
+    "65637": {
+      "url": "https://core.trac.wordpress.org/ticket/65637",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 07/16/2026 09:30:02 AM"
+    },
+    "65639": {
+      "url": "https://core.trac.wordpress.org/ticket/65639",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 08/13/2026 12:01:49 AM"
+    },
+    "65640": {
+      "url": "https://core.trac.wordpress.org/ticket/65640",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 07/16/2026 02:35:01 AM"
+    },
+    "65643": {
+      "url": "https://core.trac.wordpress.org/ticket/65643",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 07/20/2026 03:25:36 PM"
+    },
+    "65644": {
+      "url": "https://core.trac.wordpress.org/ticket/65644",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 07/23/2026 07:34:27 AM"
+    },
+    "65645": {
+      "url": "https://core.trac.wordpress.org/ticket/65645",
+      "testers": [
+        {
+          "user": "iamchitti",
+          "quality": "medium",
+          "reasons": [
+            "before_after_with_image"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65645#comment:4"
+          ],
+          "newContributor": true,
+          "country": null,
+          "memberSince": "April 9th, 2023"
+        }
+      ],
+      "reproducers": [],
+      "changetime": "See timeline at 07/30/2026 01:57:42 PM"
+    },
+    "65646": {
+      "url": "https://core.trac.wordpress.org/ticket/65646",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 07/17/2026 09:08:43 AM"
+    },
+    "65647": {
+      "url": "https://core.trac.wordpress.org/ticket/65647",
+      "testers": [
+        {
+          "user": "iamchitti",
+          "quality": "medium",
+          "reasons": [
+            "before_after_with_image"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65647#comment:2"
+          ],
+          "newContributor": true,
+          "country": null,
+          "memberSince": "April 9th, 2023"
+        },
+        {
+          "user": "iamraju",
+          "quality": "high",
+          "reasons": [
+            "narrative_test_strong",
+            "patch_test_heading",
+            "struct_2_with_patch_signal"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65647#comment:10"
+          ],
+          "newContributor": true,
+          "country": null,
+          "memberSince": "February 15th, 2023"
+        },
+        {
+          "user": "mirmpro",
+          "quality": "high",
+          "reasons": [
+            "expected_result_with_struct",
+            "narrative_test_medium",
+            "narrative_test_strong",
+            "patch_test_heading",
+            "struct_2_with_patch_signal",
+            "struct_3plus"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65647#comment:5"
+          ],
+          "newContributor": true,
+          "country": "Bangladesh",
+          "memberSince": "August 7th, 2023"
+        },
+        {
+          "user": "nazmulasif",
+          "quality": "high",
+          "reasons": [
+            "expected_result_with_struct",
+            "narrative_test_strong",
+            "patch_test_heading",
+            "struct_2_with_patch_signal",
+            "struct_3plus"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65647#comment:12"
+          ],
+          "newContributor": true,
+          "country": "Bangladesh",
+          "memberSince": "May 24th, 2023"
+        },
+        {
+          "user": "shailu25",
+          "quality": "high",
+          "reasons": [
+            "narrative_test_strong",
+            "patch_test_heading",
+            "struct_2_with_patch_signal",
+            "struct_3plus",
+            "tested_patch_with_link"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65647#comment:8"
+          ],
+          "newContributor": false,
+          "country": "India",
+          "memberSince": "June 19th, 2019"
+        },
+        {
+          "user": "ugyensupport",
+          "quality": "high",
+          "reasons": [
+            "expected_result_with_struct",
+            "narrative_test_strong",
+            "patch_test_heading",
+            "struct_2_with_patch_signal",
+            "struct_3plus",
+            "tested_patch_with_link"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65647#comment:7"
+          ],
+          "newContributor": false,
+          "country": "Bhutan",
+          "memberSince": "August 24th, 2016"
+        }
+      ],
+      "reproducers": [],
+      "changetime": "See timeline at 08/03/2026 07:59:49 PM"
+    },
+    "65649": {
+      "url": "https://core.trac.wordpress.org/ticket/65649",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 07/16/2026 06:58:17 PM"
+    },
+    "65658": {
+      "url": "https://core.trac.wordpress.org/ticket/65658",
+      "testers": [
+        {
+          "user": "iamraju",
+          "quality": "high",
+          "reasons": [
+            "expected_result_with_struct",
+            "narrative_test_medium",
+            "narrative_test_strong",
+            "patch_test_heading",
+            "struct_2_with_patch_signal",
+            "struct_3plus",
+            "tested_patch_with_link"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65658#comment:8"
+          ],
+          "newContributor": true,
+          "country": null,
+          "memberSince": "February 15th, 2023"
+        },
+        {
+          "user": "mirmpro",
+          "quality": "high",
+          "reasons": [
+            "expected_result_with_struct",
+            "narrative_test_strong",
+            "patch_test_heading",
+            "struct_2_with_patch_signal",
+            "struct_3plus"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65658#comment:9"
+          ],
+          "newContributor": true,
+          "country": "Bangladesh",
+          "memberSince": "August 7th, 2023"
+        },
+        {
+          "user": "shailu25",
+          "quality": "high",
+          "reasons": [
+            "narrative_test_strong",
+            "patch_test_heading",
+            "struct_2_with_patch_signal",
+            "struct_3plus",
+            "tested_patch_with_link"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65658#comment:14"
+          ],
+          "newContributor": false,
+          "country": "India",
+          "memberSince": "June 19th, 2019"
+        },
+        {
+          "user": "softglaze",
+          "quality": "medium",
+          "reasons": [
+            "struct_2_with_patch_signal",
+            "tested_patch_with_link"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65658#comment:4"
+          ],
+          "newContributor": false,
+          "country": "Pakistan",
+          "memberSince": "January 5th, 2026"
+        }
+      ],
+      "reproducers": [],
+      "changetime": "See timeline at 08/02/2026 10:23:01 PM"
+    },
+    "65659": {
+      "url": "https://core.trac.wordpress.org/ticket/65659",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 07/19/2026 10:01:10 AM"
+    },
+    "65660": {
+      "url": "https://core.trac.wordpress.org/ticket/65660",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 07/19/2026 11:27:57 PM"
+    },
+    "65664": {
+      "url": "https://core.trac.wordpress.org/ticket/65664",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 07/20/2026 03:38:24 PM"
+    },
+    "65667": {
+      "url": "https://core.trac.wordpress.org/ticket/65667",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 07/20/2026 08:55:40 AM"
+    },
+    "65668": {
+      "url": "https://core.trac.wordpress.org/ticket/65668",
+      "testers": [
+        {
+          "user": "fushar",
+          "quality": "medium",
+          "reasons": [
+            "before_after_with_image"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65668#comment:1"
+          ],
+          "newContributor": true,
+          "country": null,
+          "memberSince": "September 12th, 2022"
+        },
+        {
+          "user": "khokansardar",
+          "quality": "high",
+          "reasons": [
+            "before_after_with_image",
+            "patch_test_heading",
+            "struct_2_with_patch_signal",
+            "struct_3plus",
+            "tested_patch_with_link"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65668#comment:3"
+          ],
+          "newContributor": true,
+          "country": "India",
+          "memberSince": "May 19th, 2022"
+        }
+      ],
+      "reproducers": [],
+      "changetime": "See timeline at 07/22/2026 06:47:38 AM"
+    },
+    "65670": {
+      "url": "https://core.trac.wordpress.org/ticket/65670",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 08/03/2026 08:38:04 PM"
+    },
+    "65673": {
+      "url": "https://core.trac.wordpress.org/ticket/65673",
+      "testers": [
+        {
+          "user": "iamchitti",
+          "quality": "medium",
+          "reasons": [
+            "before_after_with_image"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65673#comment:3"
+          ],
+          "newContributor": true,
+          "country": null,
+          "memberSince": "April 9th, 2023"
+        }
+      ],
+      "reproducers": [
+        {
+          "user": "adamsilverstein",
+          "quality": "low",
+          "reasons": [
+            "narrative_repro_medium"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65673#comment:11"
+          ],
+          "newContributor": true,
+          "country": "United States",
+          "memberSince": "October 11th, 2012"
+        }
+      ],
+      "changetime": "See timeline at 07/22/2026 01:02:20 AM"
+    },
+    "65682": {
+      "url": "https://core.trac.wordpress.org/ticket/65682",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 07/22/2026 09:03:19 PM"
+    },
+    "65685": {
+      "url": "https://core.trac.wordpress.org/ticket/65685",
+      "testers": [
+        {
+          "user": "tusharaddweb",
+          "quality": "medium",
+          "reasons": [
+            "before_after_with_image",
+            "narrative_test_strong",
+            "narrative_test_with_visual"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65685#comment:2"
+          ],
+          "newContributor": false,
+          "country": "India",
+          "memberSince": "December 11th, 2023"
+        }
+      ],
+      "reproducers": [],
+      "changetime": "See timeline at 07/24/2026 02:24:39 AM"
+    },
+    "65686": {
+      "url": "https://core.trac.wordpress.org/ticket/65686",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 08/04/2026 01:56:04 AM"
+    },
+    "65688": {
+      "url": "https://core.trac.wordpress.org/ticket/65688",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 07/22/2026 01:27:01 PM"
+    },
+    "65690": {
+      "url": "https://core.trac.wordpress.org/ticket/65690",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 08/09/2026 10:40:08 AM"
+    },
+    "65695": {
+      "url": "https://core.trac.wordpress.org/ticket/65695",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 07/27/2026 03:07:57 PM"
+    },
+    "65696": {
+      "url": "https://core.trac.wordpress.org/ticket/65696",
+      "testers": [
+        {
+          "user": "hbhalodia",
+          "quality": "medium",
+          "reasons": [
+            "before_after_with_image"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65696#comment:1"
+          ],
+          "newContributor": true,
+          "country": "India",
+          "memberSince": "September 30th, 2021"
+        },
+        {
+          "user": "softglaze",
+          "quality": "medium",
+          "reasons": [
+            "tested_patch_with_link"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65696#comment:7"
+          ],
+          "newContributor": false,
+          "country": "Pakistan",
+          "memberSince": "January 5th, 2026"
+        }
+      ],
+      "reproducers": [],
+      "changetime": "See timeline at 07/31/2026 08:41:50 AM"
+    },
+    "65697": {
+      "url": "https://core.trac.wordpress.org/ticket/65697",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 08/03/2026 07:42:09 PM"
+    },
+    "65698": {
+      "url": "https://core.trac.wordpress.org/ticket/65698",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 08/17/2026 04:33:48 PM"
+    },
+    "65699": {
+      "url": "https://core.trac.wordpress.org/ticket/65699",
+      "testers": [],
+      "reproducers": [
+        {
+          "user": "adamsilverstein",
+          "quality": "low",
+          "reasons": [
+            "narrative_repro_medium"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65699#comment:4"
+          ],
+          "newContributor": true,
+          "country": "United States",
+          "memberSince": "October 11th, 2012"
+        }
+      ],
+      "changetime": "See timeline at 07/24/2026 10:12:57 PM"
+    },
+    "65705": {
+      "url": "https://core.trac.wordpress.org/ticket/65705",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 07/25/2026 02:37:01 AM"
+    },
+    "65708": {
+      "url": "https://core.trac.wordpress.org/ticket/65708",
+      "testers": [
+        {
+          "user": "adamsilverstein",
+          "quality": "medium",
+          "reasons": [
+            "playground_with_image"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65708#comment:6"
+          ],
+          "newContributor": true,
+          "country": "United States",
+          "memberSince": "October 11th, 2012"
+        }
+      ],
+      "reproducers": [],
+      "changetime": "See timeline at 08/04/2026 10:56:50 PM"
+    },
+    "65710": {
+      "url": "https://core.trac.wordpress.org/ticket/65710",
+      "testers": [
+        {
+          "user": "mirmpro",
+          "quality": "high",
+          "reasons": [
+            "expected_result_with_struct",
+            "narrative_test_strong",
+            "patch_test_heading",
+            "struct_2_with_patch_signal",
+            "struct_3plus",
+            "tested_patch_with_link"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65710#comment:6"
+          ],
+          "newContributor": true,
+          "country": "Bangladesh",
+          "memberSince": "August 7th, 2023"
+        },
+        {
+          "user": "shailu25",
+          "quality": "medium",
+          "reasons": [
+            "before_after_with_image"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65710#comment:3"
+          ],
+          "newContributor": false,
+          "country": "India",
+          "memberSince": "June 19th, 2019"
+        }
+      ],
+      "reproducers": [],
+      "changetime": "See timeline at 07/29/2026 04:51:45 AM"
+    },
+    "65711": {
+      "url": "https://core.trac.wordpress.org/ticket/65711",
+      "testers": [
+        {
+          "user": "mirmpro",
+          "quality": "high",
+          "reasons": [
+            "expected_result_with_struct",
+            "narrative_test_strong",
+            "struct_2_with_patch_signal",
+            "struct_3plus"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65711#comment:4"
+          ],
+          "newContributor": true,
+          "country": "Bangladesh",
+          "memberSince": "August 7th, 2023"
+        },
+        {
+          "user": "nazmulasif",
+          "quality": "high",
+          "reasons": [
+            "expected_result_with_struct",
+            "narrative_test_strong",
+            "patch_test_heading",
+            "playground_with_test_phrase",
+            "struct_2_with_patch_signal",
+            "struct_3plus",
+            "tested_patch_with_link"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65711#comment:12"
+          ],
+          "newContributor": true,
+          "country": "Bangladesh",
+          "memberSince": "May 24th, 2023"
+        }
+      ],
+      "reproducers": [],
+      "changetime": "See timeline at 07/27/2026 06:39:39 AM"
+    },
+    "65712": {
+      "url": "https://core.trac.wordpress.org/ticket/65712",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 07/30/2026 08:48:48 PM"
+    },
+    "65715": {
+      "url": "https://core.trac.wordpress.org/ticket/65715",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 07/28/2026 03:38:06 PM"
+    },
+    "65716": {
+      "url": "https://core.trac.wordpress.org/ticket/65716",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 07/28/2026 04:43:22 PM"
+    },
+    "65719": {
+      "url": "https://core.trac.wordpress.org/ticket/65719",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 07/27/2026 10:08:24 PM"
+    },
+    "65722": {
+      "url": "https://core.trac.wordpress.org/ticket/65722",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 08/19/2026 10:38:18 PM"
+    },
+    "65723": {
+      "url": "https://core.trac.wordpress.org/ticket/65723",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 07/28/2026 12:24:06 AM"
+    },
+    "65724": {
+      "url": "https://core.trac.wordpress.org/ticket/65724",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 07/27/2026 05:06:20 AM"
+    },
+    "65726": {
+      "url": "https://core.trac.wordpress.org/ticket/65726",
+      "testers": [
+        {
+          "user": "dhruvang21",
+          "quality": "medium",
+          "reasons": [
+            "narrative_test_medium",
+            "narrative_test_with_visual"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65726#comment:6"
+          ],
+          "newContributor": false,
+          "country": "India",
+          "memberSince": "June 28th, 2023"
+        },
+        {
+          "user": "habiburdev",
+          "quality": "medium",
+          "reasons": [
+            "narrative_test_with_visual"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65726#comment:8"
+          ],
+          "newContributor": false,
+          "country": "Bangladesh",
+          "memberSince": "December 23rd, 2020"
+        },
+        {
+          "user": "iamchitti",
+          "quality": "medium",
+          "reasons": [
+            "before_after_with_image"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65726#comment:3"
+          ],
+          "newContributor": true,
+          "country": null,
+          "memberSince": "April 9th, 2023"
+        }
+      ],
+      "reproducers": [],
+      "changetime": "See timeline at 07/28/2026 05:52:22 PM"
+    },
+    "65727": {
+      "url": "https://core.trac.wordpress.org/ticket/65727",
+      "testers": [
+        {
+          "user": "mirmpro",
+          "quality": "high",
+          "reasons": [
+            "expected_result_with_struct",
+            "narrative_test_strong",
+            "patch_test_heading",
+            "struct_2_with_patch_signal",
+            "struct_3plus",
+            "tested_patch_with_link"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65727#comment:3"
+          ],
+          "newContributor": true,
+          "country": "Bangladesh",
+          "memberSince": "August 7th, 2023"
+        }
+      ],
+      "reproducers": [],
+      "changetime": "See timeline at 07/29/2026 01:45:34 PM"
+    },
+    "65728": {
+      "url": "https://core.trac.wordpress.org/ticket/65728",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 07/30/2026 10:08:07 AM"
+    },
+    "65732": {
+      "url": "https://core.trac.wordpress.org/ticket/65732",
+      "testers": [
+        {
+          "user": "khokansardar",
+          "quality": "high",
+          "reasons": [
+            "narrative_test_medium",
+            "narrative_test_strong",
+            "narrative_test_with_visual",
+            "patch_test_heading",
+            "struct_2_with_patch_signal",
+            "struct_3plus",
+            "tested_patch_with_link"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65732#comment:7"
+          ],
+          "newContributor": true,
+          "country": "India",
+          "memberSince": "May 19th, 2022"
+        },
+        {
+          "user": "ozgursar",
+          "quality": "high",
+          "reasons": [
+            "before_after_with_image",
+            "expected_result_with_struct",
+            "narrative_test_strong",
+            "narrative_test_with_visual",
+            "patch_test_heading",
+            "struct_2_with_patch_signal",
+            "struct_3plus",
+            "tested_patch_with_link"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65732#comment:11"
+          ],
+          "newContributor": false,
+          "country": null,
+          "memberSince": "August 24th, 2017"
+        }
+      ],
+      "reproducers": [],
+      "changetime": "See timeline at 07/31/2026 07:44:08 PM"
+    },
+    "65733": {
+      "url": "https://core.trac.wordpress.org/ticket/65733",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 07/30/2026 02:54:34 PM"
+    },
+    "65736": {
+      "url": "https://core.trac.wordpress.org/ticket/65736",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 08/11/2026 02:40:52 PM"
+    },
+    "65740": {
+      "url": "https://core.trac.wordpress.org/ticket/65740",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 07/31/2026 01:06:19 PM"
+    },
+    "65741": {
+      "url": "https://core.trac.wordpress.org/ticket/65741",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 07/28/2026 11:48:38 PM"
+    },
+    "65742": {
+      "url": "https://core.trac.wordpress.org/ticket/65742",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 07/29/2026 11:26:55 PM"
+    },
+    "65743": {
+      "url": "https://core.trac.wordpress.org/ticket/65743",
+      "testers": [
+        {
+          "user": "habiburdev",
+          "quality": "medium",
+          "reasons": [
+            "narrative_test_medium",
+            "narrative_test_with_visual"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65743#comment:15"
+          ],
+          "newContributor": false,
+          "country": "Bangladesh",
+          "memberSince": "December 23rd, 2020"
+        },
+        {
+          "user": "khokansardar",
+          "quality": "high",
+          "reasons": [
+            "patch_test_heading",
+            "struct_2_with_patch_signal",
+            "struct_3plus",
+            "tested_patch_with_link"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65743#comment:8"
+          ],
+          "newContributor": true,
+          "country": "India",
+          "memberSince": "May 19th, 2022"
+        },
+        {
+          "user": "mirmpro",
+          "quality": "high",
+          "reasons": [
+            "expected_result_with_struct",
+            "narrative_test_strong",
+            "narrative_test_with_visual",
+            "patch_test_heading",
+            "playground_with_image",
+            "playground_with_test_phrase",
+            "struct_2_with_patch_signal",
+            "struct_3plus"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65743#comment:10"
+          ],
+          "newContributor": true,
+          "country": "Bangladesh",
+          "memberSince": "August 7th, 2023"
+        }
+      ],
+      "reproducers": [],
+      "changetime": "See timeline at 08/16/2026 10:34:19 PM"
+    },
+    "65748": {
+      "url": "https://core.trac.wordpress.org/ticket/65748",
+      "testers": [
+        {
+          "user": "ugyensupport",
+          "quality": "high",
+          "reasons": [
+            "expected_result_with_struct",
+            "narrative_test_strong",
+            "narrative_test_with_visual",
+            "patch_test_heading",
+            "struct_2_with_patch_signal",
+            "struct_3plus",
+            "tested_patch_with_link"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65748#comment:5"
+          ],
+          "newContributor": false,
+          "country": "Bhutan",
+          "memberSince": "August 24th, 2016"
+        }
+      ],
+      "reproducers": [],
+      "changetime": "See timeline at 08/04/2026 01:56:04 AM"
+    },
+    "65749": {
+      "url": "https://core.trac.wordpress.org/ticket/65749",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 08/07/2026 11:30:13 PM"
+    },
+    "65752": {
+      "url": "https://core.trac.wordpress.org/ticket/65752",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 08/04/2026 12:47:37 AM"
+    },
+    "65755": {
+      "url": "https://core.trac.wordpress.org/ticket/65755",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 07/30/2026 07:27:18 AM"
+    },
+    "65765": {
+      "url": "https://core.trac.wordpress.org/ticket/65765",
+      "testers": [
+        {
+          "user": "shamimmoeen",
+          "quality": "medium",
+          "reasons": [
+            "before_after_with_image"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65765#comment:2"
+          ],
+          "newContributor": true,
+          "country": "Bangladesh",
+          "memberSince": "September 19th, 2014"
+        }
+      ],
+      "reproducers": [],
+      "changetime": "See timeline at 08/04/2026 05:28:48 PM"
+    },
+    "65767": {
+      "url": "https://core.trac.wordpress.org/ticket/65767",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 08/16/2026 03:06:42 PM"
+    },
+    "65778": {
+      "url": "https://core.trac.wordpress.org/ticket/65778",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 08/05/2026 01:19:30 PM"
+    },
+    "65787": {
+      "url": "https://core.trac.wordpress.org/ticket/65787",
+      "testers": [
+        {
+          "user": "r1k0",
+          "quality": "medium",
+          "reasons": [
+            "before_after_with_image"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65787#comment:2"
+          ],
+          "newContributor": false,
+          "country": "Kenya",
+          "memberSince": "May 17th, 2025"
+        },
+        {
+          "user": "shailu25",
+          "quality": "medium",
+          "reasons": [
+            "before_after_with_image"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65787#comment:11"
+          ],
+          "newContributor": false,
+          "country": "India",
+          "memberSince": "June 19th, 2019"
+        }
+      ],
+      "reproducers": [],
+      "changetime": "See timeline at 08/05/2026 01:17:12 AM"
+    },
+    "65790": {
+      "url": "https://core.trac.wordpress.org/ticket/65790",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 08/03/2026 06:58:00 PM"
+    },
+    "65792": {
+      "url": "https://core.trac.wordpress.org/ticket/65792",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 08/04/2026 12:30:16 PM"
+    },
+    "65794": {
+      "url": "https://core.trac.wordpress.org/ticket/65794",
+      "testers": [
+        {
+          "user": "gulamdastgir04",
+          "quality": "high",
+          "reasons": [
+            "narrative_test_strong",
+            "patch_test_heading",
+            "tested_patch_with_link"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65794#comment:2"
+          ],
+          "newContributor": false,
+          "country": "India",
+          "memberSince": "July 9th, 2024"
+        },
+        {
+          "user": "mdridipu",
+          "quality": "high",
+          "reasons": [
+            "narrative_test_medium",
+            "narrative_test_with_visual",
+            "patch_test_heading",
+            "struct_2_with_patch_signal"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65794#comment:5"
+          ],
+          "newContributor": true,
+          "country": "Bangladesh",
+          "memberSince": "August 17th, 2016"
+        },
+        {
+          "user": "softglaze",
+          "quality": "high",
+          "reasons": [
+            "before_after_with_image",
+            "expected_result_with_struct",
+            "narrative_test_medium",
+            "narrative_test_strong",
+            "narrative_test_with_visual",
+            "patch_test_heading",
+            "struct_2_with_patch_signal",
+            "struct_3plus",
+            "tested_patch_with_link"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65794#comment:3",
+            "https://core.trac.wordpress.org/ticket/65794#comment:4"
+          ],
+          "newContributor": false,
+          "country": "Pakistan",
+          "memberSince": "January 5th, 2026"
+        }
+      ],
+      "reproducers": [],
+      "changetime": "See timeline at 08/07/2026 03:22:27 PM"
+    },
+    "65799": {
+      "url": "https://core.trac.wordpress.org/ticket/65799",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 08/04/2026 12:12:05 AM"
+    },
+    "65800": {
+      "url": "https://core.trac.wordpress.org/ticket/65800",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 08/04/2026 10:03:47 PM"
+    },
+    "65801": {
+      "url": "https://core.trac.wordpress.org/ticket/65801",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 08/04/2026 01:51:49 AM"
+    },
+    "65804": {
+      "url": "https://core.trac.wordpress.org/ticket/65804",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 08/18/2026 04:10:56 PM"
+    },
+    "65808": {
+      "url": "https://core.trac.wordpress.org/ticket/65808",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 08/05/2026 06:40:33 AM"
+    },
+    "65813": {
+      "url": "https://core.trac.wordpress.org/ticket/65813",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 08/16/2026 11:49:44 PM"
+    },
+    "65826": {
+      "url": "https://core.trac.wordpress.org/ticket/65826",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 08/10/2026 08:08:26 PM"
+    },
+    "65827": {
+      "url": "https://core.trac.wordpress.org/ticket/65827",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 08/07/2026 04:33:56 AM"
+    },
+    "65832": {
+      "url": "https://core.trac.wordpress.org/ticket/65832",
+      "testers": [
+        {
+          "user": "khokansardar",
+          "quality": "high",
+          "reasons": [
+            "patch_test_heading",
+            "struct_2_with_patch_signal",
+            "struct_3plus",
+            "tested_patch_with_link"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65832#comment:5"
+          ],
+          "newContributor": true,
+          "country": "India",
+          "memberSince": "May 19th, 2022"
+        },
+        {
+          "user": "mdridipu",
+          "quality": "medium",
+          "reasons": [
+            "narrative_test_medium",
+            "narrative_test_with_visual"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65832#comment:4"
+          ],
+          "newContributor": true,
+          "country": "Bangladesh",
+          "memberSince": "August 17th, 2016"
+        }
+      ],
+      "reproducers": [],
+      "changetime": "See timeline at 08/12/2026 03:51:39 PM"
+    },
+    "65848": {
+      "url": "https://core.trac.wordpress.org/ticket/65848",
+      "testers": [
+        {
+          "user": "madhavishah01",
+          "quality": "medium",
+          "reasons": [
+            "before_after_with_image",
+            "narrative_test_strong",
+            "narrative_test_with_visual"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65848#comment:3"
+          ],
+          "newContributor": true,
+          "country": "India",
+          "memberSince": "May 2nd, 2025"
+        }
+      ],
+      "reproducers": [],
+      "changetime": "See timeline at 08/12/2026 06:59:21 AM"
+    },
+    "65849": {
+      "url": "https://core.trac.wordpress.org/ticket/65849",
+      "testers": [],
+      "reproducers": [
+        {
+          "user": "ravichudasama01",
+          "quality": "low",
+          "reasons": [
+            "narrative_repro_strong"
+          ],
+          "comments": [
+            "https://core.trac.wordpress.org/ticket/65849#comment:2"
+          ],
+          "newContributor": true,
+          "country": "India",
+          "memberSince": "May 2nd, 2025"
+        }
+      ],
+      "changetime": "See timeline at 08/17/2026 03:35:52 AM"
+    },
+    "65854": {
+      "url": "https://core.trac.wordpress.org/ticket/65854",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 08/17/2026 04:33:48 PM"
+    },
+    "65856": {
+      "url": "https://core.trac.wordpress.org/ticket/65856",
+      "testers": [],
+      "reproducers": [],
+      "changetime": "See timeline at 08/17/2026 04:33:48 PM"
+    }
+  }
+}

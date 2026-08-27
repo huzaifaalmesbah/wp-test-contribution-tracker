@@ -1,7 +1,12 @@
 {
   "description": "WordPress.org users known to have the Test Contributor badge, with location and member-since data. Updated by `npm run enrich`.",
-  "lastUpdated": "2026-05-27T13:29:32.490Z",
+  "lastUpdated": "2026-08-27T03:15:52.406Z",
   "users": {
+    "SergeyBiryukov": {
+      "location": "Rostov-on-Don",
+      "country": "Russia",
+      "memberSince": "December 2nd, 2007"
+    },
     "SirLouen": {
       "location": "Spain",
       "country": "Spain",
@@ -16,6 +21,11 @@
       "location": "Dhaka, Bangladesh",
       "country": "Bangladesh",
       "memberSince": "January 10th, 2020"
+    },
+    "ankitkumarshah": {
+      "location": "West Bengal, India",
+      "country": "India",
+      "memberSince": "October 1st, 2024"
     },
     "audrasjb": {
       "location": "Saint-Péray, Ardèche, France",
@@ -47,6 +57,11 @@
       "country": "India",
       "memberSince": "April 8th, 2023"
     },
+    "ekamran": {
+      "location": "Mumbai",
+      "country": "India",
+      "memberSince": "June 18th, 2012"
+    },
     "fabiankaegy": {
       "location": "Winnweiler, Germany",
       "country": "Germany",
@@ -62,10 +77,20 @@
       "country": null,
       "memberSince": "November 29th, 2025"
     },
+    "gaurangsondagar": {
+      "location": "Surat",
+      "country": "India",
+      "memberSince": "January 22nd, 2016"
+    },
     "gulamdastgir04": {
       "location": "Ahmedabad, India",
       "country": "India",
       "memberSince": "July 9th, 2024"
+    },
+    "habiburdev": {
+      "location": "Dinajpur, Rangpur, Bangladesh",
+      "country": "Bangladesh",
+      "memberSince": "December 23rd, 2020"
     },
     "hmbashar": {
       "location": "Patuakhali, Barisal, Bangladesh.",
@@ -82,10 +107,20 @@
       "country": "India",
       "memberSince": "October 3rd, 2024"
     },
+    "jeffpaul": {
+      "location": "Chicagoland",
+      "country": "United States",
+      "memberSince": "December 23rd, 2009"
+    },
     "mai21": {
       "location": "Egypt",
       "country": "Egypt",
       "memberSince": "February 7th, 2021"
+    },
+    "manhar": {
+      "location": "Ahmedabad",
+      "country": "India",
+      "memberSince": "April 21st, 2025"
     },
     "mindctrl": {
       "location": "United States",
@@ -101,6 +136,16 @@
       "location": "Mukono - Uganda",
       "country": "Uganda",
       "memberSince": "February 18th, 2020"
+    },
+    "mukesh27": {
+      "location": "Ahmedabad, India",
+      "country": "India",
+      "memberSince": "May 2nd, 2012"
+    },
+    "n8finch": {
+      "location": "Madison, WI",
+      "country": "United States",
+      "memberSince": "November 21st, 2012"
     },
     "nimeshatxecurify": {
       "location": "Pune, India",
@@ -127,6 +172,11 @@
       "country": "United States",
       "memberSince": "February 9th, 2012"
     },
+    "pedrofigueroa1989": {
+      "location": "Granada, Spain",
+      "country": "Spain",
+      "memberSince": "November 14th, 2024"
+    },
     "pmbaldha": {
       "location": "WordPress heart! ♥️",
       "country": null,
@@ -151,6 +201,11 @@
       "location": "",
       "country": null,
       "memberSince": "November 6th, 2015"
+    },
+    "rishabhwp": {
+      "location": "Pune",
+      "country": "India",
+      "memberSince": "April 12th, 2025"
     },
     "rishavdutta": {
       "location": "Kolkata",
@@ -192,10 +247,30 @@
       "country": null,
       "memberSince": "January 31st, 2022"
     },
+    "softglaze": {
+      "location": "Multan, Punjab",
+      "country": "Pakistan",
+      "memberSince": "January 5th, 2026"
+    },
+    "soyebsalar01": {
+      "location": "Ahmedabad",
+      "country": "India",
+      "memberSince": "May 2nd, 2025"
+    },
+    "sumitbagthariya16": {
+      "location": "Ahmedabad",
+      "country": "India",
+      "memberSince": "November 26th, 2016"
+    },
     "swissspidy": {
       "location": "Zurich, Switzerland",
       "country": "Switzerland",
       "memberSince": "February 25th, 2008"
+    },
+    "tusharaddweb": {
+      "location": "Ahmedabad, India",
+      "country": "India",
+      "memberSince": "December 11th, 2023"
     },
     "ugyensupport": {
       "location": "Thimphu, Bhutan",
@@ -207,10 +282,20 @@
       "country": "India",
       "memberSince": "December 29th, 2011"
     },
+    "westonruter": {
+      "location": "Portland, OR, USA",
+      "country": "United States",
+      "memberSince": "May 16th, 2007"
+    },
     "wildworks": {
       "location": "Japan",
       "country": "Japan",
       "memberSince": "July 31st, 2017"
+    },
+    "yashjawale": {
+      "location": "Pune, India",
+      "country": "India",
+      "memberSince": "June 5th, 2024"
     }
   }
 }

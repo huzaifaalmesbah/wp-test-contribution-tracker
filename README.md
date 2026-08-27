@@ -38,6 +38,7 @@ writes **five leaderboard pairs** (JSON + CSV) to `output/7.0/`:
 | `all-combined.{json,csv}` | Testers + reproducers merged, with country & "Member Since" |
 | `test-contributors.{json,csv}` | Users who **already hold** the Test Contributor badge |
 | `new-contributors.{json,csv}` | Users contributing **without** the badge — promotion candidates |
+| `combined-non-badge.{json,csv}` | Non-badge candidates cross-milestone summary (`total`, `7.1`, `7.0`, etc.) |
 
 > **Note:** `test-contributors` and `new-contributors` require `npm run enrich`
 > to have populated badge data first. `patch-testing`, `reproduction`, and
@@ -341,6 +342,17 @@ the network. Useful after a `reclassify`, or if leaderboard files were deleted.
 ```bash
 npm run build -- --milestone 7.0
 ```
+
+### 6. Cross-milestone non-badge summary
+
+Generate a combined breakdown for non-badge candidates showing their contribution counts across all scanned releases (e.g. 7.1, 7.0) and their total:
+
+```bash
+npm run combine -- --milestone 7.1
+npm run combine -- --all               # include all non-badge candidates across all historical milestones
+```
+
+Writes `output/<milestone>/combined-non-badge.{json,csv}` and `output/combined-non-badge.{json,csv}`.
 
 ### Type-check
 

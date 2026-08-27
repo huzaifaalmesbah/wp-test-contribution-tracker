@@ -9,6 +9,7 @@
     "reclassify": "tsx src/reclassify.ts",
     "scrape": "tsx src/index.ts",
     "enrich": "tsx src/enrich.ts",
+    "combine": "tsx src/combine.ts",
     "build": "tsx src/build.ts",
     "typecheck": "tsc -p ."
   },

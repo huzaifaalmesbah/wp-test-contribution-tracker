@@ -17,6 +17,10 @@ output/*/test-contributors.json
 output/*/test-contributors.csv
 output/*/new-contributors.json
 output/*/new-contributors.csv
+output/*/combined-non-badge.json
+output/*/combined-non-badge.csv
+output/combined-non-badge.json
+output/combined-non-badge.csv
 
 # Scrape cache (per-ticket HTML, parsed.json, batch MDs)
 .cache/
